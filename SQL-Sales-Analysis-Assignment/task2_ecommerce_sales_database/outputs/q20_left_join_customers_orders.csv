@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,order_id,order_date,total_amount
+101,Aarav,Sharma,1001,2024-08-01,4498
+101,Aarav,Sharma,1004,2024-08-10,3499
+102,Priya,Patel,1002,2024-08-03,799
+103,Rohan,Gupta,1003,2024-08-05,7498
+103,Rohan,Gupta,1008,2024-08-20,899
+104,Sneha,Reddy,1005,2024-08-12,2999
+105,Vikram,Singh,1006,2024-08-15,5898
+106,Ananya,Iyer,1007,2024-08-18,1299
+107,Karan,Mehta,1009,2024-08-25,6098
+108,Divya,Nair,1010,2024-08-28,1598

@@ -1,0 +1,3 @@
+customer_id,first_name,last_name,email,city,state,join_date,is_premium
+101,Aarav,Sharma,aarav.s@email.com,Mumbai,Maharashtra,2024-01-15,1
+107,Karan,Mehta,karan.m@email.com,Pune,Maharashtra,2024-07-22,1

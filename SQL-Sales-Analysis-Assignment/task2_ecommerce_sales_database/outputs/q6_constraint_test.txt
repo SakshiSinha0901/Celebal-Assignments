@@ -1,0 +1,10 @@
+Q6 Constraint Test
+
+Query tried:
+INSERT INTO products VALUES (209, 'Test Product', 'Electronics', 'TestBrand', -50.00, 10);
+
+Expected result:
+The insert failed because unit_price has CHECK (unit_price > 0).
+
+Actual error:
+CHECK constraint failed: unit_price > 0

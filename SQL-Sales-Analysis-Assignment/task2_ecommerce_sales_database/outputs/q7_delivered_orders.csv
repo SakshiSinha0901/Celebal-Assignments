@@ -1,0 +1,7 @@
+order_id,customer_id,order_date,status,total_amount
+1001,101,2024-08-01,Delivered,4498
+1002,102,2024-08-03,Delivered,799
+1004,101,2024-08-10,Delivered,3499
+1006,105,2024-08-15,Delivered,5898
+1008,103,2024-08-20,Delivered,899
+1010,108,2024-08-28,Delivered,1598

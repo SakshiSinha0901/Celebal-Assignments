@@ -1,0 +1,16 @@
+order_id,product_name,quantity,unit_price,discount_pct
+1001,Wireless Earbuds,2,1499,0
+1001,Laptop Stand,1,899,10
+1002,Cotton T-Shirt,1,799,0
+1003,Smart Watch,1,2999,0
+1003,Running Shoes,1,4599,5
+1004,Bluetooth Speaker,1,3499,0
+1005,Smart Watch,1,2999,0
+1006,Wireless Earbuds,1,1499,10
+1006,Running Shoes,1,4599,5
+1007,Bedsheet Set,1,1299,0
+1008,Laptop Stand,1,899,0
+1009,Bluetooth Speaker,1,3499,0
+1009,Cushion Covers (Set),2,599,15
+1010,Bedsheet Set,1,1299,0
+1010,Cushion Covers (Set),1,599,0
