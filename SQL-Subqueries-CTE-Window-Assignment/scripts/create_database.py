@@ -2,15 +2,31 @@ import sqlite3
 import pandas as pd
 from pathlib import Path
 
+# This gives the main assignment folder path
 BASE_DIR = Path(__file__).resolve().parent.parent
+
+# CSV file path
 DATA_PATH = BASE_DIR / "data" / "superstore.csv"
+
+# SQLite database file path
 DB_PATH = BASE_DIR / "superstore_sales.db"
+
+# SQL file path
 SQL_PATH = BASE_DIR / "superstore_analysis.sql"
+
+# Folder where query result CSV files will be saved
 RESULTS_DIR = BASE_DIR / "results"
 
+# Create results folder if it does not already exist
 RESULTS_DIR.mkdir(exist_ok=True)
 
+
 def clean_column_names(df):
+    """
+    This function makes column names easier to use in SQL.
+    Example: 'Customer Name' becomes 'customer_name'.
+    """
+
     df.columns = (
         df.columns
         .str.strip()
@@ -18,30 +34,46 @@ def clean_column_names(df):
         .str.replace(" ", "_")
         .str.replace("-", "_")
     )
+
     return df
+
 
 def main():
     print("Loading Superstore dataset...")
 
+    # Read the Superstore CSV file
+    # latin1 encoding is used because some product names may contain special characters
     df = pd.read_csv(DATA_PATH, encoding="latin1")
+
+    # Clean column names before creating database table
     df = clean_column_names(df)
 
+    # These columns should behave like numbers in SQL queries
     numeric_columns = ["sales", "quantity", "discount", "profit"]
 
+    # Convert selected columns into numeric values
     for col in numeric_columns:
         df[col] = pd.to_numeric(df[col], errors="coerce")
 
+    # Create connection with SQLite database
+    # If the database does not exist, it will be created automatically
     conn = sqlite3.connect(DB_PATH)
 
     print("Creating superstore_raw table...")
+
+    # Save the complete CSV data into a raw table
     df.to_sql("superstore_raw", conn, if_exists="replace", index=False)
 
     print("Running SQL script...")
+
+    # Read the SQL file that contains table creation and analysis queries
     with open(SQL_PATH, "r", encoding="utf-8") as file:
         sql_script = file.read()
 
+    # Execute all SQL statements written in the SQL file
     conn.executescript(sql_script)
 
+    # These all are the important queries whose results we want to save as CSV files
     queries_to_export = {
         "01_above_average_sales.csv": """
             SELECT *
@@ -99,14 +131,18 @@ def main():
         """
     }
 
+    # Run each query and save its output inside the results folder
     for file_name, query in queries_to_export.items():
         result_df = pd.read_sql_query(query, conn)
         result_df.to_csv(RESULTS_DIR / file_name, index=False)
         print(f"Saved: results/{file_name}")
 
+    # Close database connection after all work is done
     conn.close()
 
     print("Assignment database and result files created successfully!")
 
+
+# This makes sure the main function runs only when this file is executed directly
 if __name__ == "__main__":
     main()
