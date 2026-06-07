@@ -76,14 +76,24 @@ def main():
     # These all are the important queries whose results we want to save as CSV files
     queries_to_export = {
         "01_above_average_sales.csv": """
-            SELECT *
+            SELECT
+                order_id,
+                customer_id,
+                customer_name,
+                product_name,
+                sales
             FROM superstore_raw
             WHERE sales > (SELECT AVG(sales) FROM superstore_raw)
             ORDER BY sales DESC;
         """,
 
         "02_highest_order_per_customer.csv": """
-            SELECT customer_id, customer_name, order_id, sales
+            SELECT
+                customer_id,
+                customer_name,
+                order_id,
+                product_name,
+                sales
             FROM superstore_raw s1
             WHERE sales = (
                 SELECT MAX(sales)
@@ -95,7 +105,10 @@ def main():
 
         "03_total_sales_per_customer.csv": """
             WITH customer_sales AS (
-                SELECT customer_id, customer_name, SUM(sales) AS total_sales
+                SELECT
+                    customer_id,
+                    customer_name,
+                    SUM(sales) AS total_sales
                 FROM superstore_raw
                 GROUP BY customer_id, customer_name
             )
@@ -104,9 +117,30 @@ def main():
             ORDER BY total_sales DESC;
         """,
 
-        "04_customer_sales_rank.csv": """
+        "04_above_average_customer_sales.csv": """
             WITH customer_sales AS (
-                SELECT customer_id, customer_name, SUM(sales) AS total_sales
+                SELECT
+                    customer_id,
+                    customer_name,
+                    SUM(sales) AS total_sales
+                FROM superstore_raw
+                GROUP BY customer_id, customer_name
+            )
+            SELECT *
+            FROM customer_sales
+            WHERE total_sales > (
+                SELECT AVG(total_sales)
+                FROM customer_sales
+            )
+            ORDER BY total_sales DESC;
+        """,
+
+        "05_customer_sales_rank.csv": """
+            WITH customer_sales AS (
+                SELECT
+                    customer_id,
+                    customer_name,
+                    SUM(sales) AS total_sales
                 FROM superstore_raw
                 GROUP BY customer_id, customer_name
             )
@@ -118,9 +152,74 @@ def main():
             FROM customer_sales;
         """,
 
-        "05_top_5_customers.csv": """
+        "06_order_row_number_per_customer.csv": """
+            SELECT
+                customer_id,
+                customer_name,
+                order_id,
+                order_date,
+                sales,
+                ROW_NUMBER() OVER (
+                    PARTITION BY customer_id
+                    ORDER BY sales DESC
+                ) AS order_row_number
+            FROM superstore_raw
+            ORDER BY customer_id, order_row_number;
+        """,
+
+        "07_top_3_customers.csv": """
             WITH customer_sales AS (
-                SELECT customer_id, customer_name, SUM(sales) AS total_sales
+                SELECT
+                    customer_id,
+                    customer_name,
+                    SUM(sales) AS total_sales
+                FROM superstore_raw
+                GROUP BY customer_id, customer_name
+            ),
+            ranked_customers AS (
+                SELECT
+                    customer_id,
+                    customer_name,
+                    total_sales,
+                    RANK() OVER (ORDER BY total_sales DESC) AS sales_rank
+                FROM customer_sales
+            )
+            SELECT *
+            FROM ranked_customers
+            WHERE sales_rank <= 3;
+        """,
+
+        "08_final_combined_query.csv": """
+            WITH customer_sales AS (
+                SELECT
+                    customer_id,
+                    SUM(sales) AS total_sales
+                FROM orders
+                GROUP BY customer_id
+            ),
+            ranked_customers AS (
+                SELECT
+                    customer_id,
+                    total_sales,
+                    RANK() OVER (ORDER BY total_sales DESC) AS sales_rank
+                FROM customer_sales
+            )
+            SELECT
+                c.customer_name,
+                rc.total_sales,
+                rc.sales_rank
+            FROM ranked_customers rc
+            JOIN customers c
+                ON rc.customer_id = c.customer_id
+            ORDER BY rc.sales_rank;
+        """,
+
+        "09_top_5_customers.csv": """
+            WITH customer_sales AS (
+                SELECT
+                    customer_id,
+                    customer_name,
+                    SUM(sales) AS total_sales
                 FROM superstore_raw
                 GROUP BY customer_id, customer_name
             )
@@ -128,6 +227,42 @@ def main():
             FROM customer_sales
             ORDER BY total_sales DESC
             LIMIT 5;
+        """,
+
+        "10_bottom_5_customers.csv": """
+            WITH customer_sales AS (
+                SELECT
+                    customer_id,
+                    customer_name,
+                    SUM(sales) AS total_sales
+                FROM superstore_raw
+                GROUP BY customer_id, customer_name
+            )
+            SELECT *
+            FROM customer_sales
+            ORDER BY total_sales ASC
+            LIMIT 5;
+        """,
+
+        "11_single_order_customers.csv": """
+            SELECT
+                customer_id,
+                customer_name,
+                COUNT(DISTINCT order_id) AS order_count
+            FROM superstore_raw
+            GROUP BY customer_id, customer_name
+            HAVING COUNT(DISTINCT order_id) = 1
+            ORDER BY customer_name;
+        """,
+
+        "12_highest_order_value_per_customer.csv": """
+            SELECT
+                customer_id,
+                customer_name,
+                MAX(sales) AS highest_order_value
+            FROM superstore_raw
+            GROUP BY customer_id, customer_name
+            ORDER BY highest_order_value DESC;
         """
     }
 
