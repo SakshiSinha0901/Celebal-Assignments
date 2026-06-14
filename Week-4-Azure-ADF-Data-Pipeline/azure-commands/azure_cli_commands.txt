@@ -1,0 +1,219 @@
+# Azure CLI Commands
+
+## Azure Cloud Fundamentals and Data Pipeline Implementation using ADF
+
+This file contains the Azure CLI commands used for creating Azure resources required for the Azure Data Factory pipeline assignment.
+
+---
+
+## 1. Login to Azure
+
+az login
+
+---
+
+## 2. Set Required Variables
+
+$resourceGroup = "rg-celebal-adf-assignment"
+$location = "centralindia"
+
+$storageAccount = "stcelebaladfsakshisinha"
+$sourceContainer = "source"
+$destinationContainer = "destination"
+
+$dataFactoryName = "adf-celebal-assignment-sakshisinha"
+
+$csvFilePath = ".\dataset\Sample_Superstore.csv"
+$sourceBlobName = "Sample_Superstore.csv"
+
+
+---
+
+## 3. Create Resource Group
+
+az group create `
+  --name $resourceGroup `
+  --location $location
+
+
+---
+
+## 4. Create Storage Account
+
+az storage account create `
+  --name $storageAccount `
+  --resource-group $resourceGroup `
+  --location $location `
+  --sku Standard_LRS `
+  --kind StorageV2
+
+---
+
+## 5. Create Blob Containers
+
+### Create Source Container
+
+az storage container create `
+  --name $sourceContainer `
+  --account-name $storageAccount `
+  --auth-mode login
+
+
+### Create Destination Container
+
+az storage container create `
+  --name $destinationContainer `
+  --account-name $storageAccount `
+  --auth-mode login
+
+
+---
+
+## 6. Upload CSV File to Source Container
+
+az storage blob upload `
+  --account-name $storageAccount `
+  --container-name $sourceContainer `
+  --name $sourceBlobName `
+  --file $csvFilePath `
+  --auth-mode login `
+  --overwrite true
+
+
+---
+
+## 7. Create Azure Data Factory
+
+az datafactory create `
+  --resource-group $resourceGroup `
+  --factory-name $dataFactoryName `
+  --location $location
+
+
+---
+
+## 8. View Created Resources
+
+### View Resource Group
+
+az group show `
+  --name $resourceGroup `
+  --output table
+
+
+### View Storage Account
+
+az storage account show `
+  --name $storageAccount `
+  --resource-group $resourceGroup `
+  --output table
+
+
+### View Azure Data Factory
+
+az datafactory show `
+  --resource-group $resourceGroup `
+  --factory-name $dataFactoryName `
+  --output table
+
+
+---
+
+## 9. Verify Blob Containers and Files
+
+### List Containers
+
+az storage container list `
+  --account-name $storageAccount `
+  --auth-mode login `
+  --output table
+
+
+### List Files in Source Container
+
+az storage blob list `
+  --account-name $storageAccount `
+  --container-name $sourceContainer `
+  --auth-mode login `
+  --output table
+
+
+### List Files in Destination Container
+
+az storage blob list `
+  --account-name $storageAccount `
+  --container-name $destinationContainer `
+  --auth-mode login `
+  --output table
+
+
+---
+
+## 10. Assign Storage Access to Azure Data Factory
+
+### Get Storage Account Resource ID
+
+$storageAccountId = az storage account show `
+  --name $storageAccount `
+  --resource-group $resourceGroup `
+  --query id `
+  --output tsv
+
+
+### Get Azure Data Factory Managed Identity ID
+
+$adfPrincipalId = az datafactory show `
+  --name $dataFactoryName `
+  --resource-group $resourceGroup `
+  --query identity.principalId `
+  --output tsv
+
+
+### Assign Storage Blob Data Contributor Role
+
+az role assignment create `
+  --assignee $adfPrincipalId `
+  --role "Storage Blob Data Contributor" `
+  --scope $storageAccountId
+
+
+---
+
+## 11. Verify Role Assignment
+
+az role assignment list `
+  --assignee $adfPrincipalId `
+  --scope $storageAccountId `
+  --output table
+
+
+---
+
+## 12. Check Output File After Pipeline Execution
+
+After running the Azure Data Factory pipeline, use this command to verify whether the copied file is available in the destination container.
+
+az storage blob list `
+  --account-name $storageAccount `
+  --container-name $destinationContainer `
+  --auth-mode login `
+  --output table
+
+
+Expected output file:
+
+copied_superstore.csv
+
+
+---
+
+## 13. Optional Cleanup Command
+
+Use this command only if you want to delete all resources after completing the assignment.
+
+```powershell
+az group delete `
+  --name $resourceGroup `
+  --yes `
+  --no-wait
+```
