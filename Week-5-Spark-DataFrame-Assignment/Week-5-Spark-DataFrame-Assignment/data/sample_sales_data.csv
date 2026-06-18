@@ -1,0 +1,11 @@
+user_id,transaction_date,region,product_category,sale_amount,city,age,subscription,status,raw_timestamp,email,username,price,store_id,quantity
+101,2026-01-01,West,Electronics,1200,Mumbai,25,Premium,Active,2026-01-01 10:30:00,user1@gmail.com,userone,1200,S1,2
+102,2026-01-02,East,Furniture,800,Kolkata,31,Basic,,2026-01-02 11:00:00,user2@gmail.com,usertwo,800,S2,1
+103,2026-01-03,West,Electronics,1500,Delhi,22,Premium,Active,2026-01-03 12:15:00,,userthree,1500,S1,1
+101,2026-01-01,West,Electronics,1200,Mumbai,25,Premium,Active,2026-01-01 10:30:00,user1@gmail.com,userone,1200,S1,2
+104,2026-01-04,South,Clothing,500,Bangalore,19,Premium,,2026-01-04 13:45:00,user4@gmail.com,,500,S3,3
+105,2026-01-05,West,Furniture,900,Mumbai,28,Premium,Inactive,2026-01-05 14:00:00,user5@gmail.com,userfive,,S2,2
+106,2026-01-06,North,Electronics,2000,Delhi,35,Basic,Active,2026-01-06 15:30:00,user6@gmail.com,usersix,2000,S1,1
+107,2026-01-07,West,Clothing,700,Pune,24,Premium,Active,2026-01-07 16:00:00,user7@gmail.com,userseven,700,S3,2
+108,2026-01-08,East,Electronics,1100,Kolkata,29,Premium,,2026-01-08 17:20:00,user8@gmail.com,usereight,1100,S1,1
+109,2026-01-09,West,Furniture,950,Mumbai,26,Premium,Active,2026-01-09 18:10:00,user9@gmail.com,usernine,950,S2,1
