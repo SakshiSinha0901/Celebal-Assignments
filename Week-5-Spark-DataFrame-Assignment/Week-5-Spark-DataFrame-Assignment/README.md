@@ -37,7 +37,7 @@ Week-5-Spark-DataFrame-Assignment/
 │
 ├── outputs/
 │   └── query_results.md
-│
+│   └── results.csv
 ├── screenshots/
 │
 ├── Week5_Spark_Assignment.ipynb
