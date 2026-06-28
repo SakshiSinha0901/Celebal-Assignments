@@ -1,0 +1,22 @@
+Week 6 Spark Assignment - Execution Summary
+
+The notebook executed Spark DataFrame operations for:
+1. Reading CSV with header and inferSchema.
+2. Selecting Electronics products.
+3. Renaming old_name to new_name.
+4. Casting price to Double.
+5. Filtering Completed orders with amount greater than 1000.
+6. Adding final_price with 18% tax.
+7. Creating and reading Parquet data safely.
+8. Filtering rows where user_id is not null.
+9. Filtering rows where region is North OR priority is High.
+10. Saving output files inside the outputs folder.
+
+Performance and Architecture Insights:
+- Spark Driver plans the execution.
+- Cluster Manager provides resources.
+- Executors run tasks.
+- Lazy Evaluation optimizes chained transformations.
+- DAG provides fault tolerance.
+- Parquet improves analytics performance because of columnar storage and Predicate Pushdown.
+- show(5) is safer than collect() for large datasets.

@@ -1,0 +1,5 @@
+product_id,product_name,category,price,old_name,status,amount,region,priority,base_price,user_id
+P101,Laptop,Electronics,55000,Product_A,Completed,1200,North,Medium,50000,U001
+P102,Phone,Electronics,25000,Product_B,Pending,800,South,High,22000,U002
+P104,Headphones,Electronics,3000,Product_D,Completed,2000,West,High,2800,U004
+P105,Chair,Furniture,4500,Product_E,Cancelled,500,North,Low,4000,U005
