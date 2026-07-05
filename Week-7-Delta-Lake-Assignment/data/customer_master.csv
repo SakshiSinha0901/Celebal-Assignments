@@ -1,0 +1,201 @@
+customer_id,customer_name,segment,country,city,state,postal_code,region,first_order_date,last_order_date,total_orders,total_sales,record_start_date
+AA-10315,Alex Avila,Consumer,United States,Round Rock,Texas,78664,Central,2015-10-04,2016-03-03,2,4433.03,2016-12-31
+AA-10375,Allen Armold,Consumer,United States,Mesa,Arizona,85204,West,2015-02-03,2016-07-10,3,200.39,2016-12-31
+AA-10480,Andrew Allen,Consumer,United States,Middletown,Connecticut,6457,East,2014-05-04,2014-05-04,1,27.46,2016-12-31
+AA-10645,Anna Andreadi,Consumer,United States,Georgetown,Kentucky,40324,South,2014-12-01,2016-09-04,3,1995.74,2016-12-31
+AB-10015,Aaron Bergman,Consumer,United States,Oklahoma City,Oklahoma,73120,Central,2014-03-07,2016-11-10,2,873.53,2016-12-31
+AB-10060,Adam Bellavance,Home Office,United States,New York City,New York,10009,East,2016-09-01,2016-09-01,1,4438.69,2016-12-31
+AB-10105,Adrian Barton,Consumer,United States,New York City,New York,10011,East,2015-11-07,2016-02-02,2,788.96,2016-12-31
+AB-10150,Aimee Bixby,Consumer,United States,Tulsa,Oklahoma,74133,Central,2014-03-05,2015-09-10,2,720.5,2016-12-31
+AB-10165,Alan Barnes,Consumer,United States,Louisville,Colorado,80027,West,2015-05-10,2015-05-10,1,46.69,2016-12-31
+AB-10255,Alejandro Ballentine,Home Office,United States,Philadelphia,Pennsylvania,19134,East,2015-05-08,2015-12-03,2,91.17,2016-12-31
+AC-10420,Alyssa Crouse,Corporate,United States,San Francisco,California,94122,West,2014-07-12,2014-07-12,1,706.06,2016-12-31
+AC-10450,Amy Cox,Consumer,United States,New York City,New York,10011,East,2015-11-08,2015-11-08,1,70.21,2016-12-31
+AD-10180,Alan Dominguez,Home Office,United States,New York City,New York,10035,East,2015-07-04,2015-07-04,1,15.48,2016-12-31
+AF-10870,Art Ferguson,Consumer,United States,Chicago,Illinois,60610,Central,2015-12-06,2016-05-06,2,37.16,2016-12-31
+AF-10885,Art Foster,Consumer,United States,Toledo,Ohio,43615,East,2014-05-10,2016-11-10,3,489.9,2016-12-31
+AG-10300,Aleksandra Gannaway,Corporate,United States,Franklin,Massachusetts,2038,East,2016-12-05,2016-12-05,1,81.94,2016-12-31
+AG-10330,Alex Grayson,Consumer,United States,Tulsa,Oklahoma,74133,Central,2016-08-03,2016-08-03,1,248.82,2016-12-31
+AG-10390,Allen Goldenen,Consumer,United States,Knoxville,Tennessee,37918,South,2014-09-03,2016-12-01,2,19.1,2016-12-31
+AG-10495,Andrew Gjertsen,Corporate,United States,Detroit,Michigan,48234,Central,2015-01-04,2015-11-11,3,1672.01,2016-12-31
+AG-10525,Andy Gerbode,Corporate,United States,New York City,New York,10011,East,2014-08-09,2015-09-07,4,1455.04,2016-12-31
+AG-10675,Anna Gayman,Consumer,United States,Houston,Texas,77036,Central,2015-05-07,2016-09-08,2,2880.88,2016-12-31
+AG-10765,Anthony Garverick,Home Office,United States,Lawrence,Indiana,46226,Central,2015-06-09,2015-11-09,2,123.84,2016-12-31
+AG-10900,Arthur Gainer,Consumer,United States,Eau Claire,Wisconsin,54703,Central,2015-09-05,2016-12-08,2,1819.15,2016-12-31
+AH-10195,Alan Haines,Corporate,United States,Bethlehem,Pennsylvania,18018,East,2015-03-05,2015-03-05,1,132.94,2016-12-31
+AH-10210,Alan Hwang,Consumer,United States,New York City,New York,10024,East,2015-11-10,2015-12-07,2,881.89,2016-12-31
+AH-10465,Amy Hunt,Consumer,United States,San Francisco,California,94109,West,2015-01-03,2016-05-05,2,1828.94,2016-12-31
+AH-10690,Anna HÃ¤berlin,Corporate,United States,Coral Gables,Florida,33134,South,2014-04-02,2016-10-04,6,2124.31,2016-12-31
+AI-10855,Arianne Irving,Consumer,United States,Los Angeles,California,90036,West,2014-05-10,2016-11-10,2,1668.86,2016-12-31
+AJ-10780,Anthony Jacobs,Corporate,United States,Springfield,Virginia,22153,South,2014-01-10,2014-01-10,1,54.83,2016-12-31
+AJ-10795,Anthony Johnson,Corporate,United States,Springfield,Virginia,22153,South,2016-01-05,2016-09-12,2,1414.96,2016-12-31
+AJ-10945,Ashley Jarboe,Consumer,United States,Detroit,Michigan,48227,Central,2014-03-03,2015-06-01,2,793.93,2016-12-31
+AM-10360,Alice McCarthy,Corporate,United States,Omaha,Nebraska,68104,Central,2014-10-06,2014-10-06,1,15.36,2016-12-31
+AP-10720,Anne Pryor,Home Office,United States,Los Angeles,California,90032,West,2014-03-03,2016-12-06,3,1368.07,2016-12-31
+AP-10915,Arthur Prichep,Consumer,United States,Seattle,Washington,98105,West,2014-11-11,2016-12-10,3,1469.56,2016-12-31
+AR-10345,Alex Russell,Corporate,United States,Austin,Texas,78745,Central,2015-09-10,2015-09-10,1,179.89,2016-12-31
+AR-10405,Allen Rosenblatt,Corporate,United States,Los Angeles,California,90036,West,2014-10-03,2014-10-03,1,265.78,2016-12-31
+AR-10510,Andrew Roberts,Consumer,United States,Columbus,Ohio,43229,East,2014-05-02,2014-05-02,1,26.14,2016-12-31
+AR-10540,Andy Reiter,Consumer,United States,Los Angeles,California,90004,West,2015-04-11,2015-04-11,1,692.73,2016-12-31
+AR-10825,Anthony Rawles,Corporate,United States,Vancouver,Washington,98661,West,2015-03-08,2016-12-11,3,1000.42,2016-12-31
+AS-10090,Adam Shillingsburg,Consumer,United States,Chicago,Illinois,60653,Central,2015-11-09,2016-09-11,3,1129.72,2016-12-31
+AS-10225,Alan Schoenberger,Corporate,United States,Longmont,Colorado,80501,West,2015-05-04,2016-12-02,2,192.4,2016-12-31
+AS-10240,Alan Shonely,Consumer,United States,Philadelphia,Pennsylvania,19120,East,2014-10-11,2016-04-07,2,77.91,2016-12-31
+AS-10285,Alejandro Savely,Corporate,United States,Noblesville,Indiana,46060,Central,2016-11-04,2016-11-11,3,2912.81,2016-12-31
+AS-10630,Ann Steele,Home Office,United States,San Francisco,California,94110,West,2014-08-01,2015-09-03,3,410.98,2016-12-31
+AT-10435,Alyssa Tate,Home Office,United States,Tamarac,Florida,33319,South,2015-09-06,2015-09-06,1,3.44,2016-12-31
+AT-10735,Annie Thurman,Consumer,United States,Stockton,California,95207,West,2014-11-03,2016-09-09,2,202.7,2016-12-31
+AW-10930,Arthur Wiediger,Home Office,United States,Philadelphia,Pennsylvania,19143,East,2016-06-12,2016-10-07,2,551.54,2016-12-31
+AY-10555,Andy Yotov,Corporate,United States,Los Angeles,California,90049,West,2014-04-06,2014-04-06,1,199.99,2016-12-31
+AZ-10750,Annie Zypern,Consumer,United States,San Diego,California,92037,West,2015-05-12,2016-02-05,2,955.6,2016-12-31
+BB-10990,Barry Blumstein,Corporate,United States,Sierra Vista,Arizona,85635,West,2015-11-02,2016-04-01,2,435.78,2016-12-31
+BB-11545,Brenda Bowman,Corporate,United States,Chicago,Illinois,60623,Central,2015-06-05,2016-11-11,2,154.52,2016-12-31
+BC-11125,Becky Castell,Home Office,United States,New York City,New York,10011,East,2014-07-06,2016-08-12,3,827.87,2016-12-31
+BD-11320,Bill Donatelli,Consumer,United States,Detroit,Michigan,48227,Central,2015-08-10,2015-08-10,1,64.75,2016-12-31
+BD-11500,Bradley Drucker,Consumer,United States,Green Bay,Wisconsin,54302,Central,2014-02-01,2014-02-01,1,468.9,2016-12-31
+BD-11605,Brian Dahlen,Consumer,United States,Springfield,Virginia,22153,South,2015-06-11,2016-04-12,2,656.63,2016-12-31
+BD-11620,Brian DeCherney,Consumer,United States,San Francisco,California,94122,West,2016-03-08,2016-10-01,2,309.41,2016-12-31
+BD-11635,Brian Derr,Consumer,United States,New York City,New York,10009,East,2014-10-05,2015-12-05,2,511.65,2016-12-31
+BD-11725,Bruce Degenhardt,Consumer,United States,Richmond,Kentucky,40475,South,2015-07-03,2015-07-03,1,365.91,2016-12-31
+BD-11770,Bryan Davis,Consumer,United States,New York City,New York,10011,East,2016-03-10,2016-11-11,4,412.91,2016-12-31
+BE-11410,Bobby Elias,Consumer,United States,Lancaster,Ohio,43130,East,2016-02-07,2016-02-07,1,30.35,2016-12-31
+BE-11455,Brad Eason,Home Office,United States,Olathe,Kansas,66062,Central,2015-08-02,2016-09-05,4,722.13,2016-12-31
+BF-10975,Barbara Fisher,Corporate,United States,Vineland,New Jersey,8360,East,2014-08-01,2015-07-06,3,226.17,2016-12-31
+BF-11005,Barry Franz,Home Office,United States,Los Angeles,California,90004,West,2016-05-05,2016-05-05,1,252.15,2016-12-31
+BF-11020,Barry FranzÃ¶sisch,Corporate,United States,Los Angeles,California,90032,West,2016-07-07,2016-08-02,2,822.56,2016-12-31
+BF-11170,Ben Ferrer,Home Office,United States,Sacramento,California,95823,West,2014-07-12,2016-11-10,2,515.67,2016-12-31
+BF-11215,Benjamin Farhat,Home Office,United States,Minneapolis,Minnesota,55407,Central,2014-11-09,2016-06-09,2,749.46,2016-12-31
+BG-11035,Barry Gonzalez,Consumer,United States,Memphis,Tennessee,38109,South,2014-11-05,2014-12-06,2,192.11,2016-12-31
+BG-11695,Brooke Gillingham,Corporate,United States,New York City,New York,10009,East,2014-05-11,2015-01-05,2,126.08,2016-12-31
+BG-11740,Bruce Geld,Consumer,United States,Houston,Texas,77070,Central,2016-09-06,2016-09-06,1,10.78,2016-12-31
+BH-11710,Brosina Hoffman,Consumer,United States,Newark,Delaware,19711,East,2014-06-09,2016-03-03,4,5638.59,2016-12-31
+BK-11260,Berenike Kampe,Consumer,United States,San Francisco,California,94110,West,2014-08-03,2016-11-11,3,485.13,2016-12-31
+BM-11140,Becky Martin,Consumer,United States,New York City,New York,10024,East,2014-09-08,2016-12-04,3,11432.84,2016-12-31
+BM-11575,Brendan Murry,Corporate,United States,Gaithersburg,Maryland,20877,East,2016-01-02,2016-01-02,1,405.92,2016-12-31
+BM-11650,Brian Moss,Corporate,United States,Ann Arbor,Michigan,48104,Central,2014-07-09,2015-10-09,2,761.19,2016-12-31
+BM-11785,Bryan Mills,Consumer,United States,Columbus,Ohio,43229,East,2014-06-06,2015-10-03,3,628.85,2016-12-31
+BN-11470,Brad Norvell,Corporate,United States,Cary,North Carolina,27511,South,2014-09-12,2014-09-12,1,192.42,2016-12-31
+BO-11350,Bill Overfelt,Corporate,United States,Broken Arrow,Oklahoma,74012,Central,2016-01-03,2016-01-03,1,1604.73,2016-12-31
+BO-11425,Bobby Odegard,Consumer,United States,New York City,New York,10024,East,2015-09-10,2015-09-10,1,6.08,2016-12-31
+BP-11050,Barry Pond,Corporate,United States,Chicago,Illinois,60623,Central,2014-10-12,2014-10-12,1,22.24,2016-12-31
+BP-11095,Bart Pistole,Corporate,United States,New York City,New York,10024,East,2014-06-07,2014-11-07,3,137.33,2016-12-31
+BP-11155,Becky Pak,Consumer,United States,Los Angeles,California,90008,West,2015-06-04,2015-06-04,1,1109.95,2016-12-31
+BP-11185,Ben Peterman,Corporate,United States,Arvada,Colorado,80004,West,2016-01-04,2016-09-12,2,612.65,2016-12-31
+BP-11290,Beth Paige,Consumer,United States,Los Angeles,California,90036,West,2014-10-03,2016-04-12,2,909.78,2016-12-31
+BS-11365,Bill Shonely,Corporate,United States,Seattle,Washington,98105,West,2014-05-04,2014-05-04,1,69.86,2016-12-31
+BS-11380,Bill Stewart,Corporate,United States,New York City,New York,10011,East,2015-12-03,2015-12-03,1,590.35,2016-12-31
+BS-11590,Brendan Sweed,Corporate,United States,New York City,New York,10011,East,2014-12-05,2015-09-06,2,1627.36,2016-12-31
+BS-11755,Bruce Stewart,Consumer,United States,Los Angeles,California,90032,West,2014-08-03,2015-10-03,2,342.02,2016-12-31
+BT-11305,Beth Thompson,Home Office,United States,Seattle,Washington,98105,West,2015-09-06,2015-12-01,2,211.82,2016-12-31
+BT-11440,Bobby Trafton,Consumer,United States,New York City,New York,10035,East,2014-06-04,2014-06-04,1,440.05,2016-12-31
+BT-11485,Brad Thomas,Home Office,United States,Philadelphia,Pennsylvania,19140,East,2016-03-11,2016-03-11,1,30.34,2016-12-31
+BT-11680,Brian Thompson,Consumer,United States,San Francisco,California,94122,West,2015-07-09,2016-04-10,3,2029.22,2016-12-31
+BW-11065,Barry Weirich,Consumer,United States,Raleigh,North Carolina,27604,South,2015-08-11,2015-08-11,1,46.15,2016-12-31
+BW-11110,Bart Watters,Corporate,United States,New York City,New York,10024,East,2016-10-08,2016-12-10,2,114.53,2016-12-31
+BW-11200,Ben Wallace,Consumer,United States,San Francisco,California,94122,West,2014-08-12,2014-08-12,1,891.78,2016-12-31
+CA-11965,Carol Adams,Corporate,United States,Los Angeles,California,90036,West,2015-04-05,2015-04-05,1,892.22,2016-12-31
+CA-12055,Cathy Armstrong,Home Office,United States,Los Angeles,California,90036,West,2015-09-05,2016-08-08,2,1106.04,2016-12-31
+CA-12265,Christina Anderson,Consumer,United States,Springfield,Virginia,22153,South,2016-02-07,2016-02-07,1,107.83,2016-12-31
+CA-12310,Christine Abelman,Corporate,United States,San Antonio,Texas,78207,Central,2016-01-03,2016-01-03,1,376.64,2016-12-31
+CA-12775,Cynthia Arntzen,Consumer,United States,Smyrna,Tennessee,37167,South,2015-12-11,2016-12-11,2,330.89,2016-12-31
+CB-12415,Christy Brittain,Consumer,United States,Long Beach,New York,11561,East,2015-11-05,2016-06-12,3,235.89,2016-12-31
+CB-12535,Claudia Bergmann,Corporate,United States,San Francisco,California,94110,West,2015-01-02,2016-11-07,4,268.09,2016-12-31
+CC-12100,Chad Cunningham,Home Office,United States,Philadelphia,Pennsylvania,19120,East,2016-07-07,2016-07-07,1,85.21,2016-12-31
+CC-12145,Charles Crestani,Consumer,United States,Oklahoma City,Oklahoma,73120,Central,2015-09-07,2016-08-08,3,109.6,2016-12-31
+CC-12220,Chris Cortes,Consumer,United States,La Porte,Indiana,46350,Central,2014-09-09,2016-10-01,6,1847.42,2016-12-31
+CC-12370,Christopher Conant,Consumer,United States,Los Angeles,California,90045,West,2016-07-07,2016-07-07,1,3136.87,2016-12-31
+CC-12430,Chuck Clark,Home Office,United States,San Francisco,California,94122,West,2015-09-06,2016-11-10,2,317.38,2016-12-31
+CC-12475,Cindy Chapman,Consumer,United States,Lakewood,New Jersey,8701,East,2016-05-02,2016-11-07,4,802.44,2016-12-31
+CC-12610,Corey Catlett,Corporate,United States,Denver,Colorado,80219,West,2015-09-07,2016-10-10,2,368.39,2016-12-31
+CC-12670,Craig Carreira,Consumer,United States,Bloomington,Indiana,47401,Central,2015-09-12,2016-03-03,2,156.83,2016-12-31
+CC-12685,Craig Carroll,Consumer,United States,Henderson,Kentucky,42420,South,2015-01-09,2015-01-09,1,364.07,2016-12-31
+CD-12790,Cynthia Delaney,Home Office,United States,San Diego,California,92037,West,2014-02-02,2014-02-02,1,12.35,2016-12-31
+CG-12040,Catherine Glotzbach,Home Office,United States,Bristol,Tennessee,37620,South,2015-06-01,2016-09-10,2,79.32,2016-12-31
+CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,42420,South,2016-11-08,2016-11-08,1,993.9,2016-12-31
+CH-12070,Cathy Hwang,Home Office,United States,Raleigh,North Carolina,27604,South,2016-02-08,2016-02-08,1,1127.98,2016-12-31
+CJ-12010,Caroline Jumper,Consumer,United States,Philadelphia,Pennsylvania,19134,East,2016-03-10,2016-12-03,3,5425.77,2016-12-31
+CK-12205,Chloris Kastensmidt,Consumer,United States,Santa Clara,California,95051,West,2014-03-11,2016-06-05,3,162.65,2016-12-31
+CK-12325,Christine Kargatis,Home Office,United States,Hot Springs,Arkansas,71901,South,2014-06-02,2016-04-08,2,348.97,2016-12-31
+CK-12595,Clytie Kelty,Consumer,United States,Little Rock,Arkansas,72209,South,2015-07-11,2016-06-06,4,1409.64,2016-12-31
+CK-12760,Cyma Kinney,Corporate,United States,Arlington,Virginia,22204,South,2014-02-07,2016-02-01,4,213.73,2016-12-31
+CL-11890,Carl Ludwig,Consumer,United States,San Francisco,California,94122,West,2016-12-01,2016-12-01,1,16.74,2016-12-31
+CL-12565,Clay Ludtke,Consumer,United States,Urbandale,Iowa,50322,Central,2014-03-04,2016-11-03,6,3232.85,2016-12-31
+CM-12190,Charlotte Melton,Consumer,United States,Philadelphia,Pennsylvania,19134,East,2015-11-09,2015-11-09,1,11.35,2016-12-31
+CM-12235,Chris McAfee,Consumer,United States,Watertown,New York,13601,East,2016-05-01,2016-12-10,3,2238.96,2016-12-31
+CM-12445,Chuck Magee,Consumer,United States,San Francisco,California,94122,West,2014-06-09,2014-06-09,1,30.46,2016-12-31
+CM-12655,Corinna Mitchell,Home Office,United States,Jackson,Mississippi,39212,South,2015-11-03,2016-08-08,2,1368.76,2016-12-31
+CM-12715,Craig Molinari,Corporate,United States,Houston,Texas,77070,Central,2014-03-07,2015-03-01,3,3915.92,2016-12-31
+CP-12085,Cathy Prescott,Corporate,United States,Tucson,Arizona,85705,West,2014-12-04,2015-09-03,2,368.13,2016-12-31
+CP-12340,Christine Phan,Corporate,United States,Los Angeles,California,90049,West,2015-11-07,2016-06-03,2,1432.72,2016-12-31
+CR-12625,Corey Roper,Home Office,United States,Lakewood,New Jersey,8701,East,2014-06-01,2014-06-01,1,334.68,2016-12-31
+CR-12730,Craig Reiter,Consumer,United States,Chicago,Illinois,60610,Central,2016-06-12,2016-06-12,1,23.12,2016-12-31
+CS-11845,Cari Sayre,Corporate,United States,Houston,Texas,77070,Central,2015-04-02,2015-04-02,1,9.16,2016-12-31
+CS-11860,Cari Schnelling,Consumer,United States,Lakeland,Florida,33801,South,2014-05-02,2014-05-02,1,479.98,2016-12-31
+CS-11950,Carlos Soltero,Consumer,United States,Chicago,Illinois,60610,Central,2014-06-08,2016-09-03,3,694.21,2016-12-31
+CS-12130,Chad Sievert,Consumer,United States,Los Angeles,California,90004,West,2014-08-05,2014-08-05,1,472.04,2016-12-31
+CS-12175,Charles Sheldon,Corporate,United States,Lakewood,New Jersey,8701,East,2014-08-12,2014-08-12,1,196.21,2016-12-31
+CS-12250,Chris Selesnick,Corporate,United States,Haltom City,Texas,76117,Central,2014-02-07,2015-11-03,3,143.81,2016-12-31
+CS-12355,Christine Sundaresam,Consumer,United States,Roswell,Georgia,30076,South,2015-09-04,2015-09-04,1,919.49,2016-12-31
+CS-12400,Christopher Schild,Home Office,United States,San Jose,California,95123,West,2015-10-02,2016-11-05,3,1043.45,2016-12-31
+CS-12490,Cindy Schnelling,Corporate,United States,Conroe,Texas,77301,Central,2015-01-12,2016-11-01,3,1063.4,2016-12-31
+CS-12505,Cindy Stewart,Consumer,United States,San Francisco,California,94122,West,2015-05-12,2015-05-12,1,38.52,2016-12-31
+CT-11995,Carol Triggs,Consumer,United States,Lawrence,Massachusetts,1841,East,2014-05-07,2014-05-07,1,1091.35,2016-12-31
+CV-12295,Christina VanderZanden,Consumer,United States,New York City,New York,10011,East,2014-09-02,2016-09-04,2,387.24,2016-12-31
+CV-12805,Cynthia Voltz,Corporate,United States,San Francisco,California,94110,West,2016-05-09,2016-09-01,2,1035.67,2016-12-31
+CW-11905,Carl Weiss,Home Office,United States,Los Angeles,California,90004,West,2014-06-09,2016-11-04,2,193.11,2016-12-31
+CY-12745,Craig Yedwab,Corporate,United States,Monroe,Louisiana,71203,South,2014-12-12,2016-09-03,2,297.67,2016-12-31
+Co-12640,Corey-Lock,Consumer,United States,Seattle,Washington,98105,West,2015-08-02,2015-08-02,1,564.77,2016-12-31
+DA-13450,Dianna Arnett,Home Office,United States,Virginia Beach,Virginia,23464,South,2014-09-10,2014-09-10,1,9.64,2016-12-31
+DB-12910,Daniel Byrd,Home Office,United States,Lake Forest,California,92630,West,2016-04-01,2016-10-03,3,1049.72,2016-12-31
+DB-12970,Darren Budd,Corporate,United States,Houston,Texas,77036,Central,2014-11-12,2014-11-12,1,203.12,2016-12-31
+DB-13060,Dave Brooks,Consumer,United States,Lowell,Massachusetts,1852,East,2014-03-01,2016-06-06,2,1171.87,2016-12-31
+DB-13120,David Bremer,Corporate,United States,Santa Barbara,California,93101,West,2015-05-01,2015-12-06,3,465.38,2016-12-31
+DB-13210,Dean Braden,Consumer,United States,Philadelphia,Pennsylvania,19134,East,2016-06-09,2016-09-05,2,1146.99,2016-12-31
+DB-13270,Deborah Brumfield,Home Office,United States,Portland,Oregon,97206,West,2014-02-04,2016-12-11,4,3340.14,2016-12-31
+DB-13405,Denny Blanton,Consumer,United States,Lawrence,Massachusetts,1841,East,2015-08-08,2015-08-08,1,601.44,2016-12-31
+DB-13555,Dorothy Badders,Corporate,United States,Fayetteville,Arkansas,72701,South,2014-10-11,2014-10-11,1,16.23,2016-12-31
+DB-13615,Doug Bickford,Consumer,United States,San Francisco,California,94110,West,2015-09-01,2016-12-08,3,1753.25,2016-12-31
+DB-13660,Duane Benoit,Consumer,United States,Houston,Texas,77095,Central,2015-11-08,2015-11-08,1,10.48,2016-12-31
+DC-12850,Dan Campbell,Consumer,United States,Houston,Texas,77036,Central,2014-07-05,2014-07-05,1,502.2,2016-12-31
+DC-13285,Debra Catini,Consumer,United States,Warner Robins,Georgia,31088,South,2016-11-10,2016-11-10,1,41.86,2016-12-31
+DE-13255,Deanra Eno,Home Office,United States,Springfield,Ohio,45503,East,2014-11-05,2016-01-11,2,114.49,2016-12-31
+DF-13135,David Flashing,Consumer,United States,Vallejo,California,94591,West,2014-10-04,2014-10-04,1,110.1,2016-12-31
+DG-13300,Deirdre Greer,Corporate,United States,Philadelphia,Pennsylvania,19134,East,2014-11-01,2015-07-03,2,534.19,2016-12-31
+DH-13075,Dave Hallsten,Corporate,United States,Los Angeles,California,90045,West,2015-03-01,2015-03-01,1,200.74,2016-12-31
+DH-13675,Duane Huffman,Home Office,United States,Miami,Florida,33180,South,2014-08-12,2014-08-12,1,457.74,2016-12-31
+DJ-13420,Denny Joy,Corporate,United States,Milwaukee,Wisconsin,53209,Central,2014-12-08,2016-04-02,4,2012.52,2016-12-31
+DK-12835,Damala Kotsonis,Corporate,United States,Franklin,Tennessee,37064,South,2015-02-07,2016-12-09,2,407.03,2016-12-31
+DK-12895,Dana Kaydos,Consumer,United States,Kenosha,Wisconsin,53142,Central,2015-03-08,2015-03-08,1,2531.88,2016-12-31
+DK-12985,Darren Koutras,Consumer,United States,Henderson,Kentucky,42420,South,2015-08-02,2015-12-07,2,714.36,2016-12-31
+DK-13090,Dave Kipp,Consumer,United States,Springfield,Virginia,22153,South,2015-03-02,2015-10-09,2,818.37,2016-12-31
+DK-13150,David Kendrick,Corporate,United States,Decatur,Illinois,62521,Central,2014-12-05,2014-12-05,1,433.56,2016-12-31
+DK-13225,Dean Katz,Corporate,United States,Philadelphia,Pennsylvania,19140,East,2015-12-03,2016-09-01,4,2895.68,2016-12-31
+DK-13375,Dennis Kane,Consumer,United States,San Diego,California,92105,West,2014-09-07,2015-12-12,3,1004.28,2016-12-31
+DL-12865,Dan Lawera,Consumer,United States,Greensboro,North Carolina,27405,South,2016-05-02,2016-05-02,1,187.06,2016-12-31
+DL-12925,Daniel Lacy,Consumer,United States,Noblesville,Indiana,46060,Central,2014-09-09,2015-10-12,4,2991.7,2016-12-31
+DL-13315,Delfina Latchford,Consumer,United States,New York City,New York,10024,East,2014-02-06,2016-12-10,3,582.56,2016-12-31
+DL-13495,Dionis Lloyd,Corporate,United States,Spokane,Washington,99207,West,2016-10-07,2016-10-07,1,837.6,2016-12-31
+DM-12955,Dario Medina,Corporate,United States,Sacramento,California,95823,West,2014-12-09,2015-04-10,2,113.54,2016-12-31
+DM-13015,Darrin Martin,Consumer,United States,Johnson City,Tennessee,37604,South,2015-07-08,2016-09-05,3,555.2,2016-12-31
+DM-13345,Denise Monton,Corporate,United States,Newark,Ohio,43055,East,2014-11-03,2016-11-07,3,133.61,2016-12-31
+DM-13525,Don Miller,Corporate,United States,Houston,Texas,77070,Central,2014-07-05,2016-09-05,3,1376.79,2016-12-31
+DN-13690,Duane Noonan,Consumer,United States,San Francisco,California,94122,West,2014-10-08,2014-10-12,2,160.21,2016-12-31
+DO-13435,Denny Ordway,Consumer,United States,Columbus,Ohio,43229,East,2014-10-03,2014-10-03,1,212.95,2016-12-31
+DO-13645,Doug O'Connell,Consumer,United States,Houston,Texas,77036,Central,2015-11-07,2015-11-07,1,76.64,2016-12-31
+DP-13000,Darren Powers,Consumer,United States,Carrollton,Texas,75007,Central,2014-01-03,2014-11-12,2,169.56,2016-12-31
+DP-13105,Dave Poirier,Corporate,United States,Hempstead,New York,11550,East,2016-12-06,2016-12-06,1,1671.08,2016-12-31
+DP-13165,David Philippe,Consumer,United States,Chicago,Illinois,60610,Central,2014-12-02,2015-10-10,2,1058.62,2016-12-31
+DP-13390,Dennis Pardue,Home Office,United States,Aurora,Illinois,60505,Central,2014-07-05,2015-05-10,3,364.35,2016-12-31
+DR-12940,Daniel Raglin,Home Office,United States,Providence,Rhode Island,2908,East,2015-09-01,2016-10-04,2,6937.87,2016-12-31
+DS-13030,Darrin Sayre,Home Office,United States,San Francisco,California,94122,West,2014-07-09,2014-07-09,1,172.1,2016-12-31
+DS-13180,David Smith,Corporate,United States,Houston,Texas,77095,Central,2015-08-09,2015-09-04,2,781.01,2016-12-31
+DV-13045,Darrin Van Huff,Corporate,United States,Los Angeles,California,90036,West,2016-06-12,2016-06-12,1,14.62,2016-12-31
+DV-13465,Dianna Vittorini,Consumer,United States,Los Angeles,California,90049,West,2015-11-09,2016-09-10,2,1447.5,2016-12-31
+DW-13195,David Wiener,Corporate,United States,Knoxville,Tennessee,37918,South,2014-07-05,2014-07-05,1,4.37,2016-12-31
+DW-13480,Dianna Wilson,Home Office,United States,San Diego,California,92024,West,2014-06-01,2016-11-12,3,4658.54,2016-12-31
+DW-13540,Don Weiss,Consumer,United States,New York City,New York,10024,East,2016-04-01,2016-04-01,1,88.04,2016-12-31
+DW-13585,Dorothy Wardle,Corporate,United States,Edmonds,Washington,98026,West,2016-08-07,2016-08-07,1,179.97,2016-12-31
+Dl-13600,Dorris liebe,Corporate,United States,New York City,New York,10035,East,2014-07-01,2016-04-07,2,678.67,2016-12-31
+Dp-13240,Dean percer,Home Office,United States,New York City,New York,10035,East,2014-10-11,2015-11-09,2,2748.31,2016-12-31
+EA-14035,Erin Ashbrook,Corporate,United States,Philadelphia,Pennsylvania,19143,East,2014-11-01,2016-07-10,5,1567.46,2016-12-31
+EB-13705,Ed Braxton,Corporate,United States,Fort Worth,Texas,76106,Central,2014-07-08,2016-03-07,3,777.77,2016-12-31

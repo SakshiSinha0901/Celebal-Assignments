@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+delta_tables/
+outputs/
+*.log
+.DS_Store
