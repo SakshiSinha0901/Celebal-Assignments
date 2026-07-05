@@ -20,6 +20,12 @@ Shopping Dataset from Kaggle.
 8. Created a derived column named total_amount.
 9. Saved the cleaned dataset as a new CSV file.
 
+## ADF Studio provides three important sections:
+
+1. Author: Used to create pipelines, datasets, activities, and data flows.
+2. Monitor: Used to check pipeline runs, activity status, execution time, and errors.
+3. Manage: Used to create linked services, integration runtimes, triggers, and manage connections.
+
 ## Output Files
 
 - Notebook: notebooks/basic_data_exploration_cleaning.ipynb
