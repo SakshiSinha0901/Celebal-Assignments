@@ -1,13 +1,24 @@
 # Outputs
 
-This folder is used to store output files generated from the TrustGuard pipeline.
+This folder represents the expected output structure for the TrustGuard pipeline.
 
-The main outputs include:
+The project was executed mainly on Databricks, so the actual outputs were created as Delta tables inside Databricks instead of being directly saved into this local folder.
 
-- Data quality report
-- Rejected records
-- Final business reports
-- Anomaly log
-- Pipeline log
+The main output tables created in Databricks are:
 
-In Databricks, these outputs are mainly created as Delta tables. If required, they can also be exported as CSV files and stored inside this folder for submission.
+- raw_transactions
+- dq_report
+- rejected_records
+- clean_transactions
+- clean_customers
+- final_transactions
+- customer_summary
+- city_sales_report
+- payment_method_report
+- product_category_report
+- anomaly_log
+- pipeline_log
+
+The output results are shown in the exported Databricks notebook and screenshots folder.
+
+This folder is kept to show the planned output organization for the project.
