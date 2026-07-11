@@ -118,3 +118,15 @@ TrustGuard-Data-Quality-Pipeline/
 After running the pipeline, the final data becomes clean, consistent, and ready for analysis. Invalid records are not deleted silently. They are stored separately with proper rejection reasons, which makes the pipeline more transparent and easier to debug.
 
 This project helped me understand how a real data engineering pipeline works using Databricks, PySpark, SQL, Delta Lake, and Medallion Architecture.
+
+## Output Storage Note
+
+The main project execution was done on Databricks. Because Databricks runs in the cloud, the output tables are created and stored inside Databricks as Delta tables, not directly inside the local VS Code outputs folder.
+
+The local outputs folder has been kept in the project structure to represent the expected output categories such as data quality reports, rejected records, final reports, anomaly logs, and pipeline logs.
+
+The actual output results can be verified through:
+
+- The exported Databricks notebook
+- The screenshots added inside the screenshots folder
+- The Delta tables created in Databricks under the trustguard_db schema
