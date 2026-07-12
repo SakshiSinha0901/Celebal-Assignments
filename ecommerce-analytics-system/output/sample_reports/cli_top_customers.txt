@@ -1,0 +1,17 @@
+
+Report: Top Customers
+
+| customer_id   | customer_name   |   lifetime_value |   orders |
+|---------------|-----------------|------------------|----------|
+| C0325         | Laksh Saini     |     1,312,621.11 |        9 |
+| C0170         | Radhika Maharaj |     1,137,274.01 |        8 |
+| C0089         | Nikita Chander  |     1,088,126.41 |        5 |
+| C0040         | Alka Barad      |     1,088,035.12 |        6 |
+| C0397         | Gaurang Tara    |     1,030,010.82 |        5 |
+| C0124         | Girik Sankaran  |       998,129.24 |        7 |
+| C0361         | Vrinda Sehgal   |       991,026.95 |        8 |
+| C0197         | Vedant Behl     |       934,737.27 |        5 |
+| C0235         | Madhav Babu     |       905,127.47 |        5 |
+| C0359         | Oscar Hans      |       891,684.82 |        6 |
+
+Rows displayed: 10

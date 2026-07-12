@@ -1,0 +1,24 @@
+Report: Segments
+
+| customer_id   | customer_name      |   frequency |            spend | frequency_segment   | spend_tier   |
+|---------------|--------------------|-------------|------------------|---------------------|--------------|
+| C0325         | Laksh Saini        |           9 |      1.31262e+06 | Loyal               | High         |
+| C0170         | Radhika Maharaj    |           8 |      1.13727e+06 | Loyal               | High         |
+| C0089         | Nikita Chander     |           5 |      1.08813e+06 | Loyal               | High         |
+| C0040         | Alka Barad         |           6 |      1.08804e+06 | Loyal               | High         |
+| C0397         | Gaurang Tara       |           5 |      1.03001e+06 | Loyal               | High         |
+| C0124         | Girik Sankaran     |           7 | 998129           | Loyal               | High         |
+| C0361         | Vrinda Sehgal      |           8 | 991027           | Loyal               | High         |
+| C0197         | Vedant Behl        |           5 | 934737           | Loyal               | High         |
+| C0235         | Madhav Babu        |           5 | 905127           | Loyal               | High         |
+| C0359         | Oscar Hans         |           6 | 891685           | Loyal               | High         |
+| C0052         | Lakshit Dora       |           5 | 825919           | Loyal               | High         |
+| C0289         | Dalaja Kaur        |           4 | 799596           | Occasional          | High         |
+| C0113         | Warinder Patil     |           5 | 798821           | Loyal               | High         |
+| C0301         | Dayita Sarkar      |           3 | 797706           | Occasional          | High         |
+| C0229         | Ubika Bhardwaj     |           5 | 766837           | Loyal               | High         |
+| C0005         | Jeet Radhakrishnan |           4 | 752070           | Occasional          | High         |
+| C0371         | Udant Mohanty      |           4 | 751072           | Occasional          | High         |
+| C0038         | Inaya Mody         |           6 | 749665           | Loyal               | High         |
+| C0305         | Christopher Tata   |           4 | 709626           | Occasional          | High         |
+| C0192         | Ethan Raju         |           4 | 707144           | Occasional          | High         |

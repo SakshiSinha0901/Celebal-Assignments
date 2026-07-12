@@ -1,0 +1,24 @@
+Report: Top Products
+
+| product_name                      | category       |   quantity_sold |     revenue |
+|-----------------------------------|----------------|-----------------|-------------|
+| Keer Sneakers                     | Fashion        |              94 | 2.49365e+06 |
+| Kumer, Mixer Grinder              | Home & Kitchen |              82 | 2.05657e+06 |
+| Mannan Perfume                    | Beauty         |              77 | 2.04559e+06 |
+| Nagi, Keyboard                    | Electronics    |              81 | 2.02375e+06 |
+| Srinivasan, Bluetooth Speaker     | Electronics    |              70 | 1.92114e+06 |
+| Goel, Biography                   | Books          |              69 | 1.88895e+06 |
+| Mani, Bluetooth Speaker           | Electronics    |              70 | 1.86349e+06 |
+| Naidu, Storage Box                | Home & Kitchen |              64 | 1.79239e+06 |
+| Dani, Storage Box                 | Home & Kitchen |              80 | 1.76064e+06 |
+| Sharaf T-Shirt                    | Fashion        |              63 | 1.74815e+06 |
+| Sen-Goel T-Shirt                  | Fashion        |              61 | 1.67097e+06 |
+| Yadav-Raval Business Book         | Books          |              78 | 1.62149e+06 |
+| Kale-Shankar Sunscreen            | Beauty         |              58 | 1.60924e+06 |
+| Ramesh, Biography                 | Books          |              83 | 1.57851e+06 |
+| Ram Table Lamp                    | Home & Kitchen |              59 | 1.56035e+06 |
+| Bose-Borra Keyboard               | Electronics    |              60 | 1.55158e+06 |
+| Agrawal Business Book             | Books          |              62 | 1.53538e+06 |
+| Ravel-Sant Water Bottle           | Home & Kitchen |              70 | 1.502e+06   |
+| Chawla-Jha T-Shirt                | Fashion        |              77 | 1.49265e+06 |
+| Kade-Padmanabhan Programming Book | Books          |              60 | 1.46961e+06 |

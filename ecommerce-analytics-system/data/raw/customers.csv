@@ -1,0 +1,403 @@
+customer_id,customer_name,email,city,state,customer_segment,signup_date
+C0001,Aryan Maharaj,udantdewan@example.net,Bongaigaon,Assam,Consumer,2023-08-17
+C0002,Azad Balan,kamdarviraj@example.net,Kishanganj,Gujarat,Consumer,2024-07-17
+C0003,Thomas Sen,abeer26@example.com,Bhatpara,Gujarat,Corporate,2023-10-13
+C0004,Harsh Chanda,wchatterjee@example.com,Varanasi,Telangana,Corporate,2023-06-28
+C0005,Jeet Radhakrishnan,,Coimbatore,Arunachal Pradesh,Consumer,2023-03-07
+C0006,Bimala Buch,harrisonrai@example.com,Bharatpur,Goa,Consumer,2024-03-23
+C0007,Isha Kadakia,ekbal92@example.net,Ujjain,Manipur,Corporate,2023-02-24
+C0008,Anamika Kanda,daksh30@example.com,Agartala,Assam,Consumer,2025-05-09
+C0009,Divya Kala,prandhawa@example.com,Bilaspur,Chhattisgarh,Student,2024-07-23
+C0010,Adya Sangha,opathak@example.org,Mysore,Tripura,Corporate,2023-01-14
+C0011,Imaran Dua,pahalbhatt@example.com,,Manipur,Corporate,2023-11-23
+C0012,Advay Contractor,harini14@example.com,Malda,Andhra Pradesh,Consumer,2024-11-27
+C0013,Xiti Gokhale,misrayashica@example.net,Jamnagar,Kerala,Student,2024-03-16
+C0014,Aadi Naik,hbahl@example.com,Mathura,Arunachal Pradesh,Consumer,2024-11-20
+C0015,Farhan Chada,wbiswas@example.net,Warangal,Sikkim,Consumer,2025-02-17
+C0016,Noah Lanka,ikakar@example.net,Bijapur,Madhya Pradesh,Corporate,2024-12-05
+C0017,Raksha Varughese,pdara@example.org,Sonipat,Andhra Pradesh,Corporate,2023-03-30
+C0018,Thomas Amble,bhargavaveer@example.org,Bathinda,Assam,Student,2023-09-13
+C0019,Arya Sunder,,Vellore,Gujarat,Consumer,2025-02-14
+C0020,Gunbir Sankar,pallavi67@example.net,Navi Mumbai,Arunachal Pradesh,Student,2024-08-23
+C0021,Harinakshi Chopra,rehaangupta@example.net,Kolhapur,Maharashtra,Corporate,2025-01-10
+C0022,Arya Shere,faqidsavant@example.net,Dhanbad,Rajasthan,Consumer,2023-05-23
+C0023,Girik Khalsa,niharikasunder@example.com,,Arunachal Pradesh,Corporate,2024-04-11
+C0024,Ladli Agate,ylanka@example.com,Bhusawal,Tamil Nadu,Student,2023-06-13
+C0025,Mohammed Gupta,teerth09@example.net,Satara,Arunachal Pradesh,Consumer,2023-07-26
+C0026,Vansha Thakkar,daksheshtrivedi@example.org,Coimbatore,Punjab,Corporate,2025-07-17
+C0027,Wahab Raval,koshybalveer@example.net,Gurgaon,Sikkim,Consumer,2025-01-17
+C0028,Advika Jayaraman,william46@example.org,Berhampore,Karnataka,Consumer,2024-12-28
+C0029,Aditya Shanker,borahtanay@example.net,Mira-Bhayandar,Kerala,Corporate,2024-06-30
+C0030,Yash Pingle,nakul78@example.net,Pudukkottai,Uttar Pradesh,Corporate,2023-05-27
+C0031,Chandani Chawla,aishanidalia@example.org,Darbhanga,Jharkhand,Consumer,2023-12-17
+C0032,Hemal Jani,,Bhusawal,Uttarakhand,Consumer,2024-05-16
+C0033,Chaitanya Aggarwal,kalpit42@example.net,Suryapet,Tamil Nadu,Consumer,2025-02-16
+C0034,Aditya Choudhury,dixitbalendra@example.com,Chinsurah,Chhattisgarh,Corporate,2024-03-25
+C0035,Darika Patla,parmarshivansh@example.net,Kota,Kerala,Consumer,2023-04-25
+C0036,Mohammed Khalsa,petersachar@example.org,Thoothukudi,Uttar Pradesh,Student,2023-03-07
+C0037,Yuvraj Loke,hritikraja@example.org,Korba,Gujarat,Consumer,2025-04-01
+C0038,Inaya Mody,udantbajwa@example.net,Silchar,Karnataka,Student,2024-03-08
+C0039,Ekaraj Mallick,yashodhara68@example.com,Bhiwandi,Himachal Pradesh,Consumer,2024-10-06
+C0040,Alka Barad,sarafhemani@example.net,Junagadh,Punjab,Consumer,2025-10-19
+C0041,Lekha Gupta,chaitanya60@example.net,Bharatpur,Maharashtra,Consumer,2025-07-28
+C0042,Ganga Murthy,mitalyashica@example.com,Khammam,Madhya Pradesh,Consumer,2023-10-13
+C0043,Joshua Handa,rraghavan@example.net,Tadepalligudem,Odisha,Corporate,2024-06-22
+C0044,Nidra Acharya,bhavini36@example.net,Kirari Suleman Nagar,Manipur,Student,2025-05-27
+C0045,Tanay Vaidya,qgara@example.org,Kottayam,Sikkim,Consumer,2025-03-28
+C0046,Girik Keer,umang32@example.org,Sambalpur,Meghalaya,Consumer,2023-10-11
+C0047,Tamanna Sachdeva,leenatalwar@example.com,Siliguri,Rajasthan,Corporate,2023-07-06
+C0048,Hredhaan Sandal,patrickvasa@example.com,Proddatur,Haryana,Consumer,2023-08-13
+C0049,Tanmayi Deol,jwali@example.net,Mango,Punjab,Corporate,2023-11-24
+C0050,Sanaya Dutt,qsengupta@example.org,Saharsa,Meghalaya,Corporate,2025-05-14
+C0051,Anvi Sarraf,mangalwahab@example.com,Imphal,Nagaland,Consumer,2025-02-27
+C0052,Lakshit Dora,leeladua@example.net,Rajkot,Maharashtra,Consumer,2025-08-16
+C0053,Ganga Shukla,nbhatia@example.com,Bhimavaram,Tamil Nadu,Corporate,2023-01-24
+C0054,Lajita Sood,pandeychanchal@example.com,Siwan,Telangana,Corporate,2023-08-23
+C0055,Vinaya Kanda,rajata70@example.com,Machilipatnam,Telangana,Corporate,2024-06-30
+C0056,Unni Datta,rameshavi@example.org,Bhavnagar,West Bengal,Consumer,2024-11-27
+C0057,Qabil Bedi,ladli53@example.com,Naihati,Tripura,Consumer,2025-06-09
+C0058,Arunima Sama,finn70@example.net,Etawah,Haryana,Student,2023-01-07
+C0059,Banjeet Balasubramanian,ryanbahri@example.net,Mathura,Chhattisgarh,Student,2024-06-23
+C0060,Ishwar Kamdar,xkunda@example.com,Medininagar,Punjab,Consumer,2024-01-01
+C0061,Nihal Mukhopadhyay,baldevika@example.net,Sikar,Tamil Nadu,Student,2023-08-06
+C0062,Faqid Kibe,mitrajai@example.net,Sri Ganganagar,Nagaland,Student,2024-09-03
+C0063,Kamala Biswas,advik67@example.org,Mirzapur,Rajasthan,Corporate,2025-11-05
+C0064,Michael Saran,anamikayohannan@example.com,Junagadh,Uttarakhand,Consumer,2023-11-10
+C0065,Ekantika Korpal,mallickshravya@example.org,Jehanabad,Punjab,Consumer,2023-11-27
+C0066,Gayathri Balakrishnan,lnair@example.com,Raichur,Uttar Pradesh,Corporate,2023-01-02
+C0067,Harini Mammen,advaith83@example.org,Vellore,Meghalaya,Consumer,2025-09-27
+C0068,Vamakshi Swaminathan,fbadal@example.com,Machilipatnam,Tamil Nadu,Student,2025-01-13
+C0069,Damini Pillay,wwali@example.com,Nagercoil,Tamil Nadu,Consumer,2024-09-21
+C0070,Anika Mohan,vihaan13@example.com,Jorhat,Tripura,Student,2024-05-08
+C0071,Rehaan Kalita,umalhotra@example.net,Salem,Uttarakhand,Consumer,2023-06-11
+C0072,Chaman Karan,praneel40@example.net,Panipat,Arunachal Pradesh,Student,2025-09-22
+C0073,Brinda Date,achauhan@example.net,Nandyal,Meghalaya,Consumer,2023-09-15
+C0074,Harini Gour,krishnanvanya@example.org,Rewa,Meghalaya,Student,2025-08-31
+C0075,Chatresh Doshi,dakshachada@example.org,Proddatur,Tripura,Consumer,2023-12-05
+C0076,Upkaar Virk,cseshadri@example.com,Farrukhabad,Odisha,Student,2025-05-16
+C0077,Hardik Johal,aishanibumb@example.org,Malegaon,Nagaland,Corporate,2024-02-16
+C0078,Naksh Agate,sseshadri@example.net,Jalna,Arunachal Pradesh,Student,2025-03-28
+C0079,Bhavya Mandal,rbobal@example.org,Giridih,Sikkim,Consumer,2025-02-03
+C0080,Pavani Contractor,manthanlata@example.org,Allahabad,Goa,Consumer,2025-07-13
+C0081,Bhavya Sarna,sidhudaksha@example.net,Darbhanga,Mizoram,Consumer,2024-04-05
+C0082,Raksha Buch,sankaranekantika@example.net,Indore,Assam,Corporate,2023-02-13
+C0083,Ansh Luthra,gillupma@example.net,Alwar,Goa,Corporate,2024-04-16
+C0084,Vyanjana Chand,apall@example.com,Vasai-Virar,West Bengal,Consumer,2023-01-15
+C0085,Forum Sabharwal,qmani@example.com,Malda,Assam,Consumer,2023-05-01
+C0086,Zayyan Naik,ravalyoshita@example.org,Haridwar,Arunachal Pradesh,Student,2023-03-06
+C0087,Zarna Pathak,wsathe@example.org,Shimoga,Nagaland,Consumer,2023-05-26
+C0088,Bhavna Sarma,bdara@example.net,Kozhikode,Jharkhand,Corporate,2024-07-24
+C0089,Nikita Chander,ishaanshenoy@example.org,Panchkula,Tamil Nadu,Consumer,2024-03-14
+C0090,Yashodhara Mahajan,esubramanian@example.org,Suryapet,Chhattisgarh,Consumer,2025-08-26
+C0091,Rayaan Trivedi,ekarajmajumdar@example.com,Guna,Himachal Pradesh,Student,2025-08-26
+C0092,Barkha Misra,cdixit@example.net,Hapur,Karnataka,Consumer,2024-01-25
+C0093,Tamanna Nagy,williamrajagopal@example.org,Varanasi,Karnataka,Consumer,2025-06-01
+C0094,Lakshmi Raju,warhibansal@example.org,Salem,West Bengal,Consumer,2025-04-21
+C0095,Harish Vora,uaurora@example.org,Bhatpara,Assam,Corporate,2023-04-21
+C0096,Alka Nigam,vbuch@example.net,Ratlam,Rajasthan,Consumer,2023-07-21
+C0097,Balendra Biswas,bhavnakaran@example.net,Raebareli,Bihar,Student,2024-11-25
+C0098,Sachi Ganesan,ayush05@example.org,Secunderabad,Kerala,Consumer,2023-08-12
+C0099,Madhav Konda,kgole@example.org,Phagwara,West Bengal,Consumer,2024-01-25
+C0100,Wridesh Tank,vincentshenoy@example.net,Jaunpur,Himachal Pradesh,Consumer,2023-10-15
+C0101,Udyati Mani,ethansathe@example.com,Khandwa,Tamil Nadu,Consumer,2024-07-24
+C0102,Tanmayi Mittal,leenasubramanian@example.org,Eluru,Odisha,Consumer,2023-06-04
+C0103,Chakrika Merchant,randhawaanvi@example.org,Medininagar,Telangana,Consumer,2023-07-20
+C0104,Bhavini Karpe,theodore39@example.com,Jalandhar,Rajasthan,Student,2023-01-31
+C0105,Dayamai Sastry,patlakaran@example.org,Khammam,Telangana,Consumer,2024-04-29
+C0106,Parth Iyer,jasmitwali@example.net,Dehradun,Himachal Pradesh,Consumer,2025-09-21
+C0107,Chakrika Nigam,sidhufaqid@example.org,Sikar,West Bengal,Student,2025-04-01
+C0108,Gautam Rana,lallajatin@example.com,Firozabad,Odisha,Consumer,2023-12-04
+C0109,Kamya Chokshi,urishillabakshi@example.net,Phagwara,Haryana,Consumer,2025-03-10
+C0110,Ucchal Mittal,idada@example.org,Avadi,Meghalaya,Consumer,2025-07-20
+C0111,Gunbir Keer,lipikasetty@example.com,Dharmavaram,Telangana,Consumer,2025-09-23
+C0112,Oeshi Chaudhary,rreddy@example.org,Bellary,Manipur,Consumer,2024-08-30
+C0113,Warinder Patil,pillaijagrati@example.org,Bally,Gujarat,Corporate,2023-04-30
+C0114,Suhani Chand,anshbedi@example.com,Cuttack,Uttar Pradesh,Corporate,2023-05-05
+C0115,Ekapad Johal,virajnarasimhan@example.org,Bally,West Bengal,Consumer,2023-04-28
+C0116,Kalpit Zachariah,owen10@example.org,Secunderabad,Uttar Pradesh,Consumer,2025-09-03
+C0117,Ekiya Babu,alkaben@example.org,Hajipur,Bihar,Consumer,2023-11-19
+C0118,Vamakshi Sen,yochana91@example.com,Srikakulam,Arunachal Pradesh,Consumer,2025-11-06
+C0119,Tara Balasubramanian,srinivasneelima@example.com,Pallavaram,Tamil Nadu,Consumer,2024-01-16
+C0120,Ethan Buch,manbir12@example.com,Eluru,Punjab,Corporate,2023-05-20
+C0121,Sudiksha Tiwari,ychaudhary@example.net,Suryapet,Telangana,Consumer,2024-04-26
+C0122,Qushi Seth,odikanori@example.com,Vijayanagaram,Telangana,Corporate,2024-05-19
+C0123,Dhriti Sane,aadhya52@example.net,Jabalpur,Assam,Corporate,2023-03-23
+C0124,Girik Sankaran,pradhankalpit@example.net,Dharmavaram,Nagaland,Corporate,2025-05-08
+C0125,Jason Roy,pallavi04@example.net,Nagercoil,Bihar,Student,2024-10-09
+C0126,Mohammed Subramaniam,hritikpalla@example.net,Raipur,Tripura,Corporate,2024-02-23
+C0127,Upkaar Sanghvi,lokeayush@example.org,Tirupati,Karnataka,Consumer,2024-10-05
+C0128,Abeer Golla,nandiniboase@example.org,Mysore,Telangana,Consumer,2025-03-21
+C0129,Krisha Saini,kom@example.com,Anantapur,Tripura,Consumer,2024-09-06
+C0130,Charles Dugal,chandranbumb@example.com,Khandwa,Meghalaya,Consumer,2023-05-29
+C0131,Oeshi Mahajan,yauvanicomar@example.com,Bhubaneswar,Jharkhand,Consumer,2023-07-24
+C0132,Darika Bath,meghabhakta@example.org,Barasat,Gujarat,Consumer,2024-03-12
+C0133,Aadhya Mann,jagdish07@example.net,Akola,Chhattisgarh,Student,2023-09-29
+C0134,Victor Tella,ekbal60@example.com,Jaunpur,Assam,Student,2023-05-21
+C0135,Pushti Ravel,hmann@example.com,Anantapur,Goa,Consumer,2025-01-26
+C0136,Janaki Chakrabarti,pcherian@example.com,Loni,Assam,Student,2025-06-16
+C0137,Dayita Nori,gauriganguly@example.org,Bettiah,Mizoram,Corporate,2024-09-11
+C0138,Ikshita Panchal,warinderchauhan@example.org,Davanagere,Goa,Corporate,2023-01-17
+C0139,Faqid Goel,wshetty@example.net,Buxar,Rajasthan,Student,2024-09-05
+C0140,Diya Dora,ebir@example.com,Panipat,Odisha,Student,2023-08-01
+C0141,Indira Tripathi,mukherjeetriya@example.com,Howrah,Kerala,Consumer,2023-10-03
+C0142,Faraj Chana,lshere@example.net,Hospet,Uttar Pradesh,Corporate,2023-08-08
+C0143,Ekanta Soni,davidseshadri@example.org,Guwahati,Mizoram,Consumer,2023-11-15
+C0144,Balveer Kota,hsarna@example.net,Bharatpur,Kerala,Corporate,2024-03-07
+C0145,Lila Rege,charles51@example.com,Proddatur,Sikkim,Corporate,2024-02-21
+C0146,Bhanumati Krishnan,gauribumb@example.net,Etawah,Jharkhand,Consumer,2024-06-24
+C0147,Kai Chad,krisha52@example.net,Bhusawal,Mizoram,Student,2024-05-29
+C0148,Andrew Patil,pranit35@example.com,Kamarhati,Chhattisgarh,Consumer,2023-04-15
+C0149,Faras Merchant,tripathibaljiwan@example.net,Tadipatri,Chhattisgarh,Student,2025-05-17
+C0150,Mitesh Gaba,noahsarma@example.org,Bharatpur,Sikkim,Consumer,2023-04-01
+C0151,Sachi Mane,ikaur@example.org,Nandyal,Uttarakhand,Corporate,2023-09-25
+C0152,Jhalak Sastry,xmanda@example.com,Nanded,Uttarakhand,Consumer,2024-06-20
+C0153,Lakshit Krishna,srivastavakamya@example.net,Hazaribagh,West Bengal,Corporate,2025-06-23
+C0154,Bhavani Chacko,anjalisengupta@example.net,Junagadh,Assam,Corporate,2025-05-25
+C0155,Shravya Palla,sachdevachatresh@example.com,Noida,Madhya Pradesh,Consumer,2023-08-18
+C0156,Kavya Kapur,nagarhardik@example.net,Ulhasnagar,Chhattisgarh,Consumer,2023-11-02
+C0157,Bhavini Sodhi,upasnasen@example.net,Vijayawada,Andhra Pradesh,Corporate,2025-01-26
+C0158,Tanveer Doctor,xchoudhry@example.com,Barasat,Bihar,Consumer,2023-10-31
+C0159,William Saini,hbhatnagar@example.com,Kottayam,Odisha,Consumer,2023-03-27
+C0160,Maanas Manne,nagarwal@example.com,Aurangabad,Maharashtra,Student,2023-03-23
+C0161,Frederick Viswanathan,ekansh88@example.net,Pali,West Bengal,Corporate,2024-03-06
+C0162,Caleb Ram,zehaan05@example.org,New Delhi,Telangana,Consumer,2023-07-30
+C0163,Gaurangi Deol,pandeyhamsini@example.net,Madhyamgram,Tamil Nadu,Student,2025-04-12
+C0164,Qabil Deshmukh,shankarbalhaar@example.com,Varanasi,Uttar Pradesh,Student,2023-11-13
+C0165,Benjamin Mutti,yutika68@example.com,Vadodara,Tripura,Student,2024-04-29
+C0166,Bhavika Parikh,narulaanjali@example.org,Junagadh,Madhya Pradesh,Student,2023-12-29
+C0167,Libni Nori,watikatank@example.com,Gwalior,Telangana,Consumer,2023-02-20
+C0168,Farhan Sani,chaayanagi@example.org,Khammam,Sikkim,Corporate,2024-11-11
+C0169,Damini Sehgal,sganesan@example.com,Amroha,Arunachal Pradesh,Student,2025-04-23
+C0170,Radhika Maharaj,bordenidra@example.com,Ludhiana,Chhattisgarh,Consumer,2024-05-23
+C0171,Bakhshi Date,keerjeevika@example.com,Tezpur,Arunachal Pradesh,Consumer,2023-08-10
+C0172,Shivani Prabhakar,sachi19@example.org,Sikar,Karnataka,Student,2023-03-21
+C0173,Zaid Comar,grewalxalak@example.net,Kishanganj,Bihar,Consumer,2024-03-31
+C0174,Abha Sehgal,bhavikaswaminathan@example.org,Bhavnagar,West Bengal,Consumer,2025-07-31
+C0175,Siya Gera,zchahal@example.net,Sri Ganganagar,Tamil Nadu,Consumer,2024-04-11
+C0176,Bina Mital,owenpathak@example.net,Bhilai,Gujarat,Consumer,2024-01-31
+C0177,Warjas Tak,pateljyoti@example.com,Pudukkottai,Assam,Student,2024-07-24
+C0178,Dayamai Rao,avora@example.com,Cuttack,Karnataka,Consumer,2024-07-25
+C0179,Shivani Shukla,kabir89@example.org,Bhiwani,Mizoram,Consumer,2025-11-09
+C0180,Jeet Vasa,dakshagala@example.org,Kamarhati,Kerala,Student,2024-11-09
+C0181,Farhan Krishna,anvidass@example.net,Srikakulam,Nagaland,Student,2023-08-25
+C0182,Yadavi Ganguly,onveernazareth@example.net,Bhopal,Assam,Consumer,2024-06-18
+C0183,Alka Kade,fbalasubramanian@example.net,Barasat,Meghalaya,Consumer,2024-06-27
+C0184,Nidra Mishra,sbora@example.org,Gandhidham,Maharashtra,Consumer,2025-06-08
+C0185,Ucchal Jani,maanas55@example.net,Silchar,Chhattisgarh,Consumer,2024-10-04
+C0186,Yutika Cherian,wyatt71@example.com,Shahjahanpur,Chhattisgarh,Consumer,2025-11-13
+C0187,Chandresh Mannan,psahota@example.org,Gangtok,Telangana,Consumer,2024-01-25
+C0188,Ranveer Dutta,dvarma@example.com,Mehsana,Andhra Pradesh,Consumer,2025-06-12
+C0189,Maya Tiwari,nkhosla@example.net,Nashik,Arunachal Pradesh,Consumer,2024-02-08
+C0190,Warda Singhal,abhiram16@example.org,Ambarnath,Tripura,Student,2023-05-24
+C0191,Jasmit Bath,kbehl@example.net,Mirzapur,Nagaland,Corporate,2024-11-07
+C0192,Ethan Raju,nmammen@example.net,Warangal,Bihar,Corporate,2023-09-13
+C0193,Kashvi Nori,maanas39@example.net,Orai,Arunachal Pradesh,Consumer,2024-09-07
+C0194,Balvan Devan,urvi87@example.org,Khammam,Punjab,Consumer,2025-04-16
+C0195,Nicholas Ramaswamy,gayathri88@example.net,Phusro,Jharkhand,Corporate,2024-08-28
+C0196,Anay Pillay,imaran69@example.com,Kavali,Meghalaya,Consumer,2024-01-28
+C0197,Vedant Behl,hgarde@example.net,Siliguri,Uttarakhand,Corporate,2025-02-15
+C0198,Azad Choudhary,anirudhsastry@example.com,Saharanpur,Maharashtra,Corporate,2023-12-23
+C0199,Nirja Thaker,tbhatia@example.org,Kishanganj,Karnataka,Consumer,2024-09-08
+C0200,Krisha Murthy,triptiwalia@example.com,Bilaspur,Punjab,Consumer,2023-01-01
+C0201,Rehaan Koshy,chanchal34@example.com,Unnao,Karnataka,Consumer,2024-03-06
+C0202,Ikshita Mahal,jairaj98@example.com,Hapur,Tripura,Consumer,2024-10-21
+C0203,Bina Basak,farhan57@example.net,Nangloi Jat,Gujarat,Corporate,2025-06-24
+C0204,Anika Magar,ikbalkhatri@example.org,Bettiah,Haryana,Consumer,2025-11-12
+C0205,Charles Chaudhry,tnarayanan@example.com,Durgapur,Andhra Pradesh,Corporate,2023-12-14
+C0206,Niharika Soni,wiyengar@example.com,Baranagar,Rajasthan,Consumer,2024-08-04
+C0207,Gaurav Kata,gillomisha@example.org,Sikar,Uttar Pradesh,Consumer,2024-11-17
+C0208,Quincy Mann,andrachanchal@example.net,Thanjavur,Jharkhand,Corporate,2024-04-26
+C0209,Wakeeta Desai,mmahajan@example.org,Ujjain,Telangana,Student,2024-04-05
+C0210,Aarini Grewal,nazarethchakrika@example.net,Akola,Punjab,Consumer,2023-10-29
+C0211,Prisha Varma,gabriel61@example.org,Morena,Karnataka,Student,2024-05-16
+C0212,Abeer Lal,ckeer@example.com,Barasat,Odisha,Consumer,2023-05-30
+C0213,Advika Parsa,daviddani@example.com,Kozhikode,Madhya Pradesh,Corporate,2024-02-03
+C0214,Jacob Merchant,timothy32@example.com,Malda,Telangana,Consumer,2025-02-25
+C0215,Ojasvi Sinha,yugbumb@example.net,Dehri,Tamil Nadu,Consumer,2024-05-14
+C0216,Faras Choudhury,tiwarisamaksh@example.net,Dehradun,Karnataka,Student,2023-01-12
+C0217,Jackson Jha,gchand@example.com,Malda,Chhattisgarh,Corporate,2023-08-07
+C0218,Tanmayi Bhardwaj,umorar@example.org,Rohtak,Uttarakhand,Consumer,2024-03-24
+C0219,Tejas Bora,sampathhemangini@example.net,Hosur,Arunachal Pradesh,Consumer,2025-08-09
+C0220,Urmi Balay,nilima22@example.net,Dindigul,Madhya Pradesh,Student,2024-05-25
+C0221,Krishna Prashad,zachariakiaan@example.net,Kochi,Goa,Consumer,2023-09-06
+C0222,Joshua Kapoor,bajajchanchal@example.com,Katihar,Madhya Pradesh,Corporate,2025-08-09
+C0223,Yug Sharma,mohammed43@example.net,Patna,Uttar Pradesh,Student,2024-10-11
+C0224,Amol Khosla,ekalingachaudhuri@example.net,Amroha,Punjab,Corporate,2025-06-25
+C0225,Yash Basu,osarna@example.net,Pimpri-Chinchwad,Chhattisgarh,Consumer,2025-10-30
+C0226,Vivaan Nagar,warjas42@example.net,Haridwar,Jharkhand,Student,2025-07-02
+C0227,Darsh Gill,dtandon@example.com,Loni,Karnataka,Consumer,2025-08-30
+C0228,Nilima Dixit,krisha28@example.com,Kamarhati,Jharkhand,Student,2024-05-21
+C0229,Ubika Bhardwaj,jsaha@example.net,Munger,Haryana,Corporate,2024-07-21
+C0230,Samar Narayanan,senguptakamala@example.org,Faridabad,Himachal Pradesh,Corporate,2025-09-19
+C0231,Balveer Bora,teerthsrinivas@example.org,Avadi,Andhra Pradesh,Consumer,2024-07-16
+C0232,Ranveer Dalal,skibe@example.net,Sikar,Haryana,Consumer,2024-08-08
+C0233,Barkha Rai,pwalla@example.com,Bhilwara,Kerala,Consumer,2024-11-18
+C0234,Unnati Chaudhari,nnagarajan@example.com,Haridwar,Arunachal Pradesh,Consumer,2023-06-15
+C0235,Madhav Babu,omisha42@example.org,Berhampur,Madhya Pradesh,Consumer,2024-04-18
+C0236,Xalak Nazareth,vrinda77@example.org,Gulbarga,Chhattisgarh,Corporate,2023-11-09
+C0237,Qarin Bhargava,bordechanakya@example.org,Durgapur,Uttarakhand,Consumer,2023-05-12
+C0238,Ekansh Dora,kamdaryashasvi@example.com,Allahabad,Punjab,Consumer,2024-11-08
+C0239,Vinaya Babu,walinisha@example.org,Bettiah,Telangana,Consumer,2025-05-01
+C0240,Bhavini Badal,ggola@example.org,New Delhi,Gujarat,Consumer,2025-05-10
+C0241,Irya Loke,xbrar@example.com,Buxar,Haryana,Student,2023-02-10
+C0242,Charita Buch,chandernidra@example.com,Suryapet,Meghalaya,Consumer,2025-02-18
+C0243,Aditya Garg,tataradha@example.net,Buxar,West Bengal,Consumer,2024-12-21
+C0244,Brijesh Karpe,vaishnavimadan@example.org,Parbhani,Nagaland,Student,2025-03-09
+C0245,Praneel Murty,johalmaanas@example.net,Solapur,Jharkhand,Consumer,2025-05-08
+C0246,Wridesh Ramachandran,leena21@example.net,Meerut,Bihar,Consumer,2024-03-27
+C0247,Vincent Borra,mekhala50@example.net,Hospet,Meghalaya,Consumer,2024-07-12
+C0248,Ishani Prashad,rgrewal@example.net,Guwahati,Tripura,Consumer,2023-03-01
+C0249,Yatin Borah,loyalmitesh@example.com,Pali,Karnataka,Corporate,2025-04-08
+C0250,Hredhaan Chand,morarsai@example.com,Kota,Chhattisgarh,Student,2025-08-15
+C0251,Rachit Sankar,avala@example.org,Hubli–Dharwad,Kerala,Student,2023-02-25
+C0252,Ekta Rajan,manneodika@example.com,Karaikudi,Haryana,Consumer,2023-02-25
+C0253,Lajita Gara,amrutamitra@example.com,Ulhasnagar,Assam,Consumer,2025-05-27
+C0254,Radhika Majumdar,emistry@example.org,Chandrapur,Haryana,Consumer,2025-08-03
+C0255,Rohan Shankar,deshmukhdaksha@example.org,Thoothukudi,Uttarakhand,Consumer,2024-06-16
+C0256,Forum Sarraf,qushi92@example.com,Madanapalle,Tamil Nadu,Consumer,2024-03-09
+C0257,Varenya Murthy,mitalinagar@example.com,Ramgarh,Uttar Pradesh,Corporate,2024-11-22
+C0258,Eshana Puri,maya51@example.net,Guntakal,Nagaland,Consumer,2025-02-15
+C0259,Avi Shenoy,rakshamanne@example.net,Alappuzha,Sikkim,Consumer,2025-05-13
+C0260,Liam Mitter,zayyandube@example.net,Burhanpur,Assam,Consumer,2023-06-17
+C0261,Varenya Rattan,ybansal@example.com,Moradabad,Tripura,Student,2023-04-17
+C0262,Isha Ganesan,rattagarima@example.com,Hyderabad,Bihar,Consumer,2024-12-17
+C0263,Tristan Uppal,sanayaprasad@example.com,Giridih,Tamil Nadu,Corporate,2023-05-21
+C0264,Hemani Bakshi,scheema@example.com,Bhiwandi,Uttarakhand,Corporate,2023-03-24
+C0265,Ijaya Muni,tamanna38@example.com,Fatehpur,Bihar,Consumer,2024-05-21
+C0266,Sneha Nagar,mitalchaitanya@example.net,Lucknow,West Bengal,Corporate,2023-02-11
+C0267,Ikbal Gala,zaitraghosh@example.net,Bathinda,Nagaland,Consumer,2024-05-03
+C0268,Turvi Kata,lgour@example.net,Tenali,Andhra Pradesh,Corporate,2023-08-23
+C0269,Shivani Sanghvi,tagrawal@example.org,Alwar,Tripura,Consumer,2024-03-22
+C0270,Harsh Yadav,jasmitnanda@example.org,Raipur,Himachal Pradesh,Corporate,2024-06-08
+C0271,Dhriti Rama,wcomar@example.com,Tadipatri,Goa,Corporate,2023-12-10
+C0272,Frado Desai,jacob34@example.org,Dindigul,Tamil Nadu,Corporate,2023-08-23
+C0273,Yasti Rama,kdevi@example.com,Gaya,Meghalaya,Student,2023-12-02
+C0274,Ojas Suri,logan25@example.com,Secunderabad,Andhra Pradesh,Corporate,2023-08-10
+C0275,Laban Hayer,ptiwari@example.com,Pallavaram,Maharashtra,Corporate,2024-09-30
+C0276,Vrinda Ganesh,balasubramanianthomas@example.com,Panipat,Haryana,Consumer,2025-02-07
+C0277,Om Shankar,hvaidya@example.net,Agartala,Tripura,Consumer,2024-02-11
+C0278,Benjamin Sastry,pavanichaudry@example.net,Bihar Sharif,West Bengal,Consumer,2024-05-12
+C0279,Shivani Lall,gagan71@example.org,Giridih,Tamil Nadu,Student,2024-09-09
+C0280,Priya Gandhi,samueljhaveri@example.org,Katihar,Himachal Pradesh,Corporate,2023-09-05
+C0281,Ekiya Master,amara81@example.org,Allahabad,Himachal Pradesh,Consumer,2023-03-26
+C0282,Kevin Krish,ekantakota@example.net,Unnao,Chhattisgarh,Corporate,2025-05-27
+C0283,Oeshi Prashad,oborra@example.org,Kottayam,Telangana,Consumer,2023-05-22
+C0284,Jyoti Sha,lnarang@example.org,Berhampore,Rajasthan,Consumer,2024-11-29
+C0285,Dev Warrior,bkamdar@example.org,Agartala,Karnataka,Student,2025-05-10
+C0286,Geetika De,roza@example.org,Navi Mumbai,Rajasthan,Consumer,2023-08-05
+C0287,Amol Dash,ridhishan@example.org,Panihati,Tamil Nadu,Corporate,2025-01-11
+C0288,Chasmum Dutt,girik54@example.org,Dehradun,Arunachal Pradesh,Corporate,2025-07-30
+C0289,Dalaja Kaur,tchand@example.org,Kakinada,Meghalaya,Consumer,2025-06-10
+C0290,Kevin Kara,aandra@example.net,Jamshedpur,West Bengal,Corporate,2024-07-07
+C0291,Kevin Sridhar,karnikleela@example.org,Kota,Karnataka,Consumer,2025-09-17
+C0292,Chandani Devan,pdeol@example.net,Coimbatore,Mizoram,Consumer,2024-07-03
+C0293,Nitesh Sarraf,tanay26@example.net,Bellary,Assam,Student,2024-05-17
+C0294,Logan Dasgupta,bpanchal@example.com,Shahjahanpur,Himachal Pradesh,Consumer,2023-06-27
+C0295,Yuvraj Mane,mitrasamesh@example.net,Katni,Jharkhand,Consumer,2025-07-12
+C0296,Wriddhish Talwar,pchowdhury@example.com,Dehri,Andhra Pradesh,Corporate,2025-08-09
+C0297,Edhitha Deo,xsalvi@example.net,Chittoor,Tripura,Consumer,2025-02-15
+C0298,Anay Bir,lalatanveer@example.org,Sikar,Mizoram,Student,2025-10-09
+C0299,Yachana Sagar,fratti@example.net,Alwar,Assam,Consumer,2024-01-08
+C0300,Farhan Vaidya,nachiketyadav@example.com,Dharmavaram,Rajasthan,Corporate,2024-12-27
+C0301,Dayita Sarkar,dalbirkonda@example.org,Bhiwandi,Manipur,Consumer,2024-11-28
+C0302,Dayamai Gill,aroralaksh@example.net,Ujjain,Meghalaya,Corporate,2024-07-19
+C0303,Zansi Lad,kamyadate@example.net,Kochi,Tripura,Consumer,2024-01-27
+C0304,Gautami Sanghvi,devansh49@example.net,Mehsana,Manipur,Consumer,2025-04-12
+C0305,Christopher Tata,jhalakdugar@example.com,Chapra,Sikkim,Corporate,2024-05-07
+C0306,Vedant Upadhyay,basuadvik@example.org,Chittoor,Kerala,Consumer,2025-10-02
+C0307,Mason Gola,sainiudarsh@example.com,Erode,Telangana,Consumer,2023-02-05
+C0308,Anika Brahmbhatt,jagdish80@example.org,Hazaribagh,Arunachal Pradesh,Consumer,2024-03-29
+C0309,Ekapad Shroff,deepa51@example.net,Bangalore,Kerala,Consumer,2024-05-13
+C0310,Bishakha Modi,ucchalpillay@example.net,Thiruvananthapuram,Telangana,Consumer,2025-01-25
+C0311,Matthew Ahuja,obajwa@example.net,Bangalore,Karnataka,Consumer,2024-12-05
+C0312,Krisha Mohanty,jhawazir@example.com,Allahabad,Chhattisgarh,Consumer,2024-11-08
+C0313,Girik Bassi,zinalsachar@example.net,Berhampore,Telangana,Consumer,2025-07-18
+C0314,Girish Tiwari,meeraborde@example.net,Raebareli,Sikkim,Consumer,2024-05-29
+C0315,Warjas Manne,divya65@example.com,Darbhanga,Haryana,Consumer,2024-01-30
+C0316,Samaksh Deshpande,dugalhitesh@example.org,Kirari Suleman Nagar,Karnataka,Consumer,2024-01-15
+C0317,Jai Wason,sarthak74@example.com,Jamshedpur,Assam,Consumer,2025-09-18
+C0318,Daksha Baria,falakdivan@example.org,Raurkela Industrial Township,Madhya Pradesh,Student,2024-08-02
+C0319,Chandani Lad,azaanravel@example.com,Bareilly,Manipur,Consumer,2024-02-02
+C0320,Logan Dara,bhatiatristan@example.org,Rewa,Kerala,Consumer,2025-01-09
+C0321,Aashi Borde,bhattacharyyarudra@example.net,Warangal,Assam,Corporate,2023-01-29
+C0322,Jason Basak,kbedi@example.net,Tenali,Meghalaya,Consumer,2023-09-17
+C0323,Lavanya Sandhu,iryakala@example.org,Parbhani,Manipur,Corporate,2023-04-22
+C0324,Bakhshi Korpal,wishi68@example.com,Chandigarh,Himachal Pradesh,Corporate,2023-09-16
+C0325,Laksh Saini,zaidbahl@example.com,Nangloi Jat,Nagaland,Consumer,2025-10-02
+C0326,Hemangini Thakkar,lipika42@example.org,Kavali,Haryana,Corporate,2023-01-26
+C0327,Avni Bhardwaj,wwagle@example.net,Kozhikode,Bihar,Consumer,2025-08-19
+C0328,Wridesh Lata,kandalipika@example.com,Belgaum,Haryana,Consumer,2024-11-28
+C0329,Jagrati Bala,lucky93@example.com,Akola,Meghalaya,Consumer,2023-04-16
+C0330,Gautam Bhalla,theodorebahri@example.net,Mumbai,Karnataka,Consumer,2025-09-05
+C0331,Kalpit Oak,ekiyabhargava@example.org,Dharmavaram,Tamil Nadu,Consumer,2023-05-14
+C0332,Indrajit Vora,elijah56@example.net,Naihati,Jharkhand,Corporate,2023-06-01
+C0333,Laban Dugar,psur@example.com,Kishanganj,Tamil Nadu,Consumer,2023-04-20
+C0334,Udant Gill,umohanty@example.net,Warangal,Goa,Consumer,2024-09-14
+C0335,Mahika Bali,eeshakant@example.net,Mehsana,Chhattisgarh,Consumer,2024-05-23
+C0336,Faras Khanna,ekaja21@example.net,Amroha,Andhra Pradesh,Corporate,2025-05-02
+C0337,Shaurya Krish,pallaaahana@example.org,Nashik,Madhya Pradesh,Corporate,2024-04-07
+C0338,Oni Ganesan,ytailor@example.com,Salem,Uttarakhand,Consumer,2025-02-18
+C0339,Umang Gaba,zborah@example.org,Jaipur,Karnataka,Consumer,2025-06-25
+C0340,Henry Borah,onkar62@example.net,Motihari,Assam,Consumer,2025-05-28
+C0341,Vasudha Balasubramanian,mgala@example.com,Meerut,Bihar,Corporate,2023-05-04
+C0342,Samesh Gupta,qzachariah@example.net,Bihar Sharif,Haryana,Student,2023-07-23
+C0343,Chandran Ramaswamy,ddube@example.com,Purnia,Assam,Corporate,2024-03-01
+C0344,Varsha Iyengar,balsamuel@example.org,Jodhpur,Meghalaya,Corporate,2024-06-25
+C0345,Darika Rao,qsuresh@example.com,Tinsukia,Madhya Pradesh,Consumer,2023-11-18
+C0346,Kamala Raj,rachit70@example.com,Kirari Suleman Nagar,Himachal Pradesh,Consumer,2023-06-03
+C0347,Amruta Bhatia,gunbirchada@example.net,Hosur,Maharashtra,Consumer,2025-04-16
+C0348,Darsh Ram,rwason@example.com,Fatehpur,Jharkhand,Consumer,2025-08-20
+C0349,Megha Banerjee,jaisen@example.org,Rajpur Sonarpur,Uttar Pradesh,Consumer,2024-04-19
+C0350,Jonathan Basak,rbrar@example.com,Siliguri,Uttarakhand,Corporate,2024-08-02
+C0351,Ekaja Bhavsar,ramamekhala@example.net,Bally,Mizoram,Consumer,2025-07-18
+C0352,Advik Virk,achowdhury@example.org,Tezpur,Odisha,Student,2024-04-23
+C0353,Hitesh Chaudhuri,hemangini64@example.com,Aurangabad,Punjab,Consumer,2024-02-10
+C0354,Baljiwan Gera,neha29@example.net,Agra,Madhya Pradesh,Corporate,2024-04-05
+C0355,Wazir Bawa,xluthra@example.org,Avadi,Jharkhand,Student,2024-06-28
+C0356,Vyanjana Chaudhari,krishmital@example.net,Pondicherry,Himachal Pradesh,Consumer,2023-05-27
+C0357,Gaurav Guha,akakar@example.net,Hazaribagh,West Bengal,Corporate,2024-09-21
+C0358,Daksh Varma,dominicmukhopadhyay@example.net,Bhavnagar,Tripura,Consumer,2024-08-14
+C0359,Oscar Hans,dalbirkrish@example.org,Dhanbad,Kerala,Corporate,2025-08-17
+C0360,Anusha Pillay,ztiwari@example.net,Ludhiana,Haryana,Student,2025-04-04
+C0361,Vrinda Sehgal,urvipalla@example.com,Rampur,Telangana,Consumer,2025-10-21
+C0362,Bhavani Bala,kbawa@example.net,Korba,Rajasthan,Consumer,2025-06-15
+C0363,Samuel Luthra,bvarghese@example.net,Bhalswa Jahangir Pur,Chhattisgarh,Student,2023-03-23
+C0364,Abhiram Kapur,dalaja46@example.com,Jaunpur,Himachal Pradesh,Corporate,2024-10-22
+C0365,Unnati Mittal,achaudry@example.net,Kishanganj,Rajasthan,Consumer,2023-02-22
+C0366,Chanchal Chokshi,vbhatt@example.com,Bally,Himachal Pradesh,Student,2023-02-12
+C0367,Raghav Doctor,daksheshraval@example.net,Kolhapur,Telangana,Corporate,2024-07-05
+C0368,Widisha Merchant,omya66@example.net,Ballia,Tamil Nadu,Consumer,2023-12-25
+C0369,Hemal Kapadia,gparmer@example.com,Proddatur,Goa,Student,2025-06-24
+C0370,Gunbir Sinha,aarnagoswami@example.net,Hubli–Dharwad,Haryana,Student,2024-01-07
+C0371,Udant Mohanty,xnarula@example.com,Madhyamgram,West Bengal,Corporate,2025-06-11
+C0372,Upma Bera,sodhirobert@example.net,Eluru,Mizoram,Student,2025-10-04
+C0373,Odika Bhagat,lakshiyer@example.com,Jehanabad,Manipur,Consumer,2025-08-20
+C0374,Diya Gole,suragaurangi@example.net,Satara,Rajasthan,Consumer,2024-11-13
+C0375,Aayush Seth,shaurya29@example.org,Hubli–Dharwad,Chhattisgarh,Student,2023-08-03
+C0376,Pushti Raval,ysood@example.org,Deoghar,Gujarat,Consumer,2024-11-06
+C0377,Akshay Nagy,andrewagrawal@example.net,Kamarhati,Tamil Nadu,Consumer,2025-10-11
+C0378,Devika Dayal,rajagopalyahvi@example.net,Rourkela,Assam,Student,2025-03-31
+C0379,Chanchal Mannan,mvenkatesh@example.net,Raebareli,Sikkim,Consumer,2023-03-17
+C0380,Hema Suri,raghav26@example.org,Rajahmundry,Telangana,Consumer,2024-10-06
+C0381,Siddharth Bains,jatinperi@example.net,Gandhinagar,Rajasthan,Student,2023-08-26
+C0382,Chanakya Bava,bahrichanakya@example.net,Erode,Manipur,Student,2025-04-07
+C0383,Jatin Krishnan,ndua@example.net,Barasat,Maharashtra,Corporate,2023-01-03
+C0384,Zinal Madan,omyacheema@example.net,Ichalkaranji,Bihar,Consumer,2025-08-04
+C0385,Widisha Issac,adyavirk@example.org,Alappuzha,Jharkhand,Consumer,2024-01-20
+C0386,Balveer Taneja,vasananarayanan@example.org,Ahmedabad,Sikkim,Corporate,2025-10-17
+C0387,Indrajit Tak,gautamvaidya@example.org,Bardhaman,Rajasthan,Consumer,2023-04-16
+C0388,Tanmayi Minhas,ucchal01@example.org,Ramagundam,Kerala,Student,2023-09-26
+C0389,Pooja D’Alia,bathaditya@example.org,Ozhukarai,Kerala,Student,2025-06-16
+C0390,Amrita Chander,hema21@example.com,Sirsa,Himachal Pradesh,Consumer,2025-09-19
+C0391,Vanya Sama,isaiahdeo@example.net,Kozhikode,Bihar,Corporate,2024-05-05
+C0392,Vasudha Sarma,ladliparmer@example.net,Bikaner,Meghalaya,Corporate,2024-09-28
+C0393,Isaiah Sabharwal,ebatra@example.com,Ahmedabad,Tamil Nadu,Consumer,2025-04-15
+C0394,Hamsini Venkataraman,santyuvraj@example.com,Kharagpur,Chhattisgarh,Consumer,2023-08-21
+C0395,Advay Dugar,ktandon@example.org,Pondicherry,Haryana,Corporate,2023-08-29
+C0396,Arunima Bedi,kritikarau@example.org,Jaunpur,Manipur,Consumer,2023-11-12
+C0397,Gaurang Tara,hmutti@example.com,Kota,Madhya Pradesh,Consumer,2024-08-20
+C0398,Balendra Acharya,modiyashoda@example.net,Sirsa,Karnataka,Consumer,2024-07-13
+C0399,Chatura Kapoor,jnarula@example.net,Bharatpur,Tamil Nadu,Student,2025-09-15
+C0400,Ishaan Chatterjee,aarnavom@example.com,Motihari,Mizoram,Consumer,2024-05-14
+C0008,Anamika Kanda,daksh30@example.com,Agartala,Assam,Consumer,2025-05-09
+C0016,Noah Lanka,ikakar@example.net,Bijapur,Madhya Pradesh,Corporate,2024-12-05

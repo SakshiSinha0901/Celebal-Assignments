@@ -1,0 +1,122 @@
+product_id,product_name,category,unit_price,stock_quantity
+P0001,Cherian-Bath Table Lamp,Home & Kitchen,5815.44,306
+P0002,Tailor Moisturizer,Beauty,25937.12,141
+P0003,"Rout, Business Book",,28035.34,259
+P0004,"Hayre, T-Shirt",Fashion,8571.23,152
+P0005,Kale-Shankar Sunscreen,Beauty,29967.2,250
+P0006,Nigam Table Lamp,Home & Kitchen,16212.79,176
+P0007,Batra-Dasgupta Jacket,Fashion,22914.64,193
+P0008,Shankar-Thaman Business Book,Books,26103.7,357
+P0009,Tara Cookware Set,Home & Kitchen,11563.17,438
+P0010,"Bava, Programming Book",Books,-499.0,242
+P0011,"Goel, Biography",Books,29653.81,405
+P0012,Ram Table Lamp,Home & Kitchen,28948.95,64
+P0013,"Nagy, Sunscreen",Beauty,10040.0,-5
+P0014,Kothari-Mahal Programming Book,Books,15835.42,233
+P0015,Oza-Menon Smart Watch,Electronics,12370.16,335
+P0016,Deol-Devi Mixer Grinder,Home & Kitchen,14148.38,496
+P0017,Vala-Mistry Sneakers,Fashion,18742.99,203
+P0018,"Murthy, Power Bank",,25587.96,439
+P0019,Mannan Perfume,Beauty,28629.69,320
+P0020,Deo-Gokhale Exam Guide,Books,1192.67,35
+P0021,"Naidu, Storage Box",Home & Kitchen,29923.09,382
+P0022,"Srinivasan, Bluetooth Speaker",Electronics,29352.73,389
+P0023,Sami-Arya Bluetooth Speaker,Electronics,5090.98,153
+P0024,"Chhabra, Wireless Earbuds",Electronics,9812.32,28
+P0025,Bera Sneakers,Fashion,11320.25,74
+P0026,Iyengar Cookware Set,Home & Kitchen,12432.11,349
+P0027,Mangat Water Bottle,Home & Kitchen,5351.07,312
+P0028,Dhingra-Bhatia Exam Guide,Books,20532.06,254
+P0029,"Merchant, Moisturizer",Beauty,7057.79,326
+P0030,Sethi-Chaudry Backpack,Fashion,7749.16,4
+P0031,"Kapur, Business Book",Books,20367.01,80
+P0032,"Mani, Bluetooth Speaker",Electronics,28363.64,300
+P0033,Saha-Munshi Backpack,Fashion,20746.57,233
+P0034,"Bhagat, Jeans",Fashion,29981.28,436
+P0035,Savant Programming Book,Books,7207.71,292
+P0036,"Pillai, Jacket",Fashion,8960.67,358
+P0037,Sen-Goel T-Shirt,Fashion,29340.98,337
+P0038,"Borde, Business Book",Books,361.97,442
+P0039,"Varkey, Keyboard",Electronics,22385.74,426
+P0040,Sangha Jeans,Fashion,18259.1,180
+P0041,"Lalla, Water Bottle",Home & Kitchen,18672.23,347
+P0042,"Kumer, Mixer Grinder",Home & Kitchen,27113.7,330
+P0043,Dubey-Baral Power Bank,Electronics,23683.68,17
+P0044,Naidu Shampoo,Beauty,22002.91,46
+P0045,Mitra Sneakers,Fashion,22454.73,89
+P0046,"Parmar, Water Bottle",Home & Kitchen,23621.0,448
+P0047,"Kannan, Jacket",Fashion,15113.63,139
+P0048,Tiwari Storage Box,Home & Kitchen,27431.78,483
+P0049,Yadav-Raval Business Book,Books,22427.19,173
+P0050,Palla Bluetooth Speaker,Electronics,28891.25,72
+P0051,Narula Table Lamp,Home & Kitchen,29022.02,411
+P0052,Memon-Kamdar Shampoo,Beauty,2818.25,202
+P0053,"Wali, Power Bank",Electronics,16152.78,232
+P0054,Pal Sneakers,Fashion,17586.66,421
+P0055,Kohli T-Shirt,Fashion,20284.12,241
+P0056,"Nagi, Keyboard",Electronics,26540.94,287
+P0057,Kunda-Zachariah Jacket,Fashion,6734.45,32
+P0058,"Mandal, Business Book",Books,19519.27,59
+P0059,Varkey-Trivedi Mixer Grinder,Home & Kitchen,28394.29,155
+P0060,Sur-Bassi Programming Book,Books,3024.1,454
+P0061,Hans-Nagi Moisturizer,Beauty,11732.74,189
+P0062,"Butala, Perfume",Beauty,17669.73,372
+P0063,"Walla, Table Lamp",Home & Kitchen,19689.07,426
+P0064,Kala Exam Guide,Books,12314.5,487
+P0065,Chawla-Jha T-Shirt,Fashion,20745.59,111
+P0066,"Saran, Biography",Books,28522.59,437
+P0067,Sharaf T-Shirt,Fashion,29430.12,188
+P0068,Barad-Chahal Shampoo,Beauty,1929.24,141
+P0069,Bhagat Mixer Grinder,Home & Kitchen,28476.44,421
+P0070,Bobal-Kari Programming Book,Books,19923.53,328
+P0071,Reddy-Rama Face Wash,Beauty,1631.29,170
+P0072,Ravel-Sant Water Bottle,Home & Kitchen,23634.91,105
+P0073,Badal-Ramachandran Keyboard,Electronics,6309.86,110
+P0074,"Dani, Storage Box",Home & Kitchen,23258.13,403
+P0075,"Bhatnagar, Face Wash",Beauty,8404.97,74
+P0076,Thakkar-Cherian Cookware Set,Home & Kitchen,7609.55,89
+P0077,Mitra-Chadha Wireless Earbuds,Electronics,4058.28,183
+P0078,Sarma-Raj Cookware Set,Home & Kitchen,9794.29,89
+P0079,Balasubramanian-Som T-Shirt,Fashion,3907.55,215
+P0080,Walla Face Wash,Beauty,22400.48,243
+P0081,Raman Business Book,Books,15455.55,55
+P0082,Dhawan-Misra Exam Guide,Books,6739.91,314
+P0083,"Prakash, Keyboard",Electronics,9132.71,329
+P0084,Barman Wireless Earbuds,Electronics,29957.77,433
+P0085,"Ramesh, Biography",Books,20620.59,251
+P0086,Kade-Padmanabhan Programming Book,Books,26990.09,164
+P0087,Sachar Moisturizer,Beauty,2082.59,140
+P0088,"Dhar, Sunscreen",Beauty,16504.89,166
+P0089,Krishnan Exam Guide,Books,15973.04,232
+P0090,Golla Sunscreen,Beauty,12974.36,406
+P0091,"Bhagat, Keyboard",Electronics,21658.7,110
+P0092,Bhavsar-Krishna Biography,Books,26656.16,211
+P0093,Hora Backpack,Fashion,12034.06,373
+P0094,"Sur, Power Bank",Electronics,12871.71,340
+P0095,Keer Sneakers,Fashion,28613.34,351
+P0096,Boase-Hari Programming Book,Books,2845.8,43
+P0097,Sunder-Seshadri Bluetooth Speaker,Electronics,3005.35,378
+P0098,Mohan-Dua Jeans,Fashion,16744.36,300
+P0099,"Patla, Sunscreen",Beauty,9969.82,62
+P0100,Agrawal Business Book,Books,26223.39,481
+P0101,Kant Programming Book,Books,29055.75,307
+P0102,"Sarin, Sneakers",Fashion,3215.58,259
+P0103,Narula Water Bottle,Home & Kitchen,19743.28,114
+P0104,Sehgal-Parmer Power Bank,Electronics,25379.76,188
+P0105,Sur-Chopra Power Bank,Electronics,17274.11,413
+P0106,Bumb Exam Guide,Books,29239.45,419
+P0107,Yohannan Sunscreen,Beauty,20288.3,285
+P0108,Bose-Borra Keyboard,Electronics,27881.04,424
+P0109,Tripathi T-Shirt,Fashion,5510.83,359
+P0110,Ravel Sneakers,Fashion,10608.58,92
+P0111,Bansal Cookware Set,Home & Kitchen,19761.46,35
+P0112,Zacharia-Sodhi Mixer Grinder,Home & Kitchen,2861.72,271
+P0113,"Dixit, Table Lamp",Home & Kitchen,12664.59,174
+P0114,Mannan Storage Box,Home & Kitchen,9431.72,166
+P0115,Thaker-Uppal Sunscreen,Beauty,2658.52,26
+P0116,Ranganathan Water Bottle,Home & Kitchen,22662.54,25
+P0117,"Anne, Power Bank",Electronics,13360.22,217
+P0118,"Dey, Exam Guide",Books,13328.28,139
+P0119,Dhingra Cookware Set,Home & Kitchen,3520.87,220
+P0120,"Sule, Power Bank",Electronics,20385.15,303
+P0006,Nigam Table Lamp,Home & Kitchen,16212.79,176
